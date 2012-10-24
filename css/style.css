@@ -1,0 +1,35 @@
+    blockquote {
+        border-color: #ff0000;
+    }
+    aside#logo,
+    aside#logo div a,
+    ul#user_meta a:hover span.link_logo_inside,
+    ul#user_meta a:hover span.link_logo,
+    aside.kudo.complete span.circle {
+        background-color: #ff0000;
+    }
+    section.preview header#begin h2,
+    ul#user_meta a:hover,
+    nav.pagination span.next a,
+    nav.pagination span.prev a {
+        color: #ff0000;
+    }
+    ul#user_meta a:hover,
+    nav.pagination span.next a,
+    nav.pagination span.prev a {
+        border-color: #ff0000;
+    }::
+    -moz-selection { 
+        background: #ff0000; 
+        color: #fff; 
+        text-shadow: none;
+    }::
+    selection { 
+        background: #ff0000; 
+        color: #fff; 
+        text-shadow: none;
+    }
+    aside#logo div a,
+    aside.kudo.complete span.circle {
+        background-image: url(/images/icons/mine_cross_large.png);
+    }
