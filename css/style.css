@@ -334,7 +334,7 @@ section#posts dl ol {
 }
 section#posts dl ol .entry-content { width: 550px }
 section#posts dl ol .title {
-    margin: 76px 0 0 0;
+    margin: 76px 0 0;
     padding: 0;
     color: #000000;
 }
@@ -350,7 +350,7 @@ section#posts dl ol abbr {
 }
 section#posts dl ol li {
     margin: 0 0 0px;
-    padding: 0 0 50px 50px;
+    padding: 0 0 50px 0;
     border-bottom: #eeeeee 1px solid;
 }
 section#posts p { width: 600px }
