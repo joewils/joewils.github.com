@@ -2,44 +2,41 @@
 layout: default
 title: Blog
 ---  
+<header id="begin">
+    <time datetime="{{ page.date }}" id="top_time">{{ page.date | date_to_string }}</time>
+</header>
+{% for post in site.posts %}
 
-    <header>
-        <h1>{{ page.title }}</h1>
-        <h3>
-            <script type="text/javascript">
-                var currentDate = new Date();
-                var day = currentDate.getDate();
-                var monthNames = [ "Jan", "Feb", "Mar", "Apr", "May", "June", "July", "Aug", "Sep", "Oct", "Nov", "Dec" ];
-                var month = monthNames[currentDate.getMonth()].toUpperCase();
-                var year = currentDate.getFullYear();
-                document.write(month + " " + day + ", " + year);
-            </script>
-        </h3>
-    </header>
+<article class="post">
+    <h2 class="entry-title">
+        <a href="{{ post.url }}" rel="bookmark" title="Permalink to {{ post.title }}" class="title">
+            {{ post.title }}
+        </a>
+    </h2>
+    <abbr class="published" title="{{ post.date | date_to_string }}">
+        {{ post.date | date_to_string }}
+    </abbr>
+	<div class="entry-content">
+        {{ post.content }}
+    </div>
+</article>
 
-    <article id="posts">
-    <h1>{{ page.title }}</h1>
-  	<dl>
-		<ol>
-			{% for post in site.posts %}
-                <li>
-                    <h1 class="title">
-                        <a href="{{ post.url }}" rel="bookmark" title="Permalink to {{ post.title }}">
-                            {{ post.title }}
-                        </a>
-                    </h1>
-                    <abbr class="published" title="{{ post.date | date_to_string }}">
-                        {{ post.date | date_to_string }}
-                    </abbr>
-                    <div class="entry-content">
-                        {{ post.content }}
-                    </div>
-                </li>
-            {% endfor %}
-		</ol>
-	</dl>
-    </article>
+    <li>
+        <h1 class="title">
+            <a href="{{ post.url }}" rel="bookmark" title="Permalink to {{ post.title }}">
+                {{ post.title }}
+            </a>
+        </h1>
+        <abbr class="published" title="{{ post.date | date_to_string }}">
+            {{ post.date | date_to_string }}
+        </abbr>
+        <div class="entry-content">
+            {{ post.content }}
+        </div>
+    </li>
+{% endfor %}  
+
     
-    <p class="paginator">
-        <!-- <a href="index2.html" class="button_accent" style="position: absolute; right: 0;">continue&nbsp;&nbsp;&nbsp;&rarr;</a> -->
-    </p>
+<p class="paginator">
+    <!-- <a href="index2.html" class="button_accent" style="position: absolute; right: 0;">continue&nbsp;&nbsp;&nbsp;&rarr;</a> -->
+</p>
