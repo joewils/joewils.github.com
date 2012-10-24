@@ -4,4 +4,10 @@ It is automatically transformed by [Jekyll](http://github.com/mojombo/jekyll) in
 
 I was tired of having my blog posts end up in a database off on some remote server. That is backwards. I've lost valuable posts that way. I want to author my posts locally in Textile or Markdown. My blog should be easily stylable and customizable any way I please. It should take care of creating a feed for me. And most of all, my site should be stored on GitHub so that I never lose data again.
 
-The HTML and CSS is borrowed/stolen from [pelican-svbtle](https://github.com/wting/pelican-svbtle)
+The HTML and CSS is shamelessly borrowed/stolen from [wp-svbtle](https://github.com/gravityonmars/wp-svbtle) who was inspired by the [Svbtle](https://svbtle.com/home) network who in turn 
+
+## Isn't this unoriginal?
+
+Yes.  I've borrowed/stolen most of the HTML and CSS from [wp-svbtle](https://github.com/gravityonmars/wp-svbtle).  Who in turn was inspired by [Svbtle.com](http://svbtle.com).  Apparently their original inspiration can be attributed too: [Drawar](http://drawar.com/).
+
+["Nothing is original" ~ Jim Jarmusch](http://www.swiss-miss.com/2009/01/nothing-is-original.html)
