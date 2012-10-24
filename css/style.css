@@ -208,6 +208,18 @@ section#posts article #title {
     color: #000000;
 }
 section#posts article #title a { border: none }
+
+section#posts aside {
+    margin: 0;
+    padding: 40px 40px 40px 50px;
+    min-width: 620px;
+    position: relative;
+    font-size: 15px;
+    line-height: 25px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
 section#posts footer {
     margin: 0;
     padding: 0;
