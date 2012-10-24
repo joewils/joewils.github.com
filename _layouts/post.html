@@ -1,62 +1,26 @@
 ---
 layout: default
 ---
-    <header>
-        <h1>{{ site.title }}</h1>
-        <h3>{{ page.date | date_to_string }}</h3>
-    </header>
-
-    <article>
-        <h1 class="title">
-            <a href="{{ page.url }}" rel="bookmark" title="Permalink to {{ page.title }}">
-                {{ page.title }}
-            </a>
-        </h1>
+<header id="begin">
+    <time datetime="{{ page.date }}" id="top_time">{{ page.date | date_to_string }}</time>
+</header>
+            
+<article id="5" class="post">
+    <h2 class="entry-title">
+        <a href="{{ page.url }}" rel="bookmark" title="Permalink to {{ post.title }}" class="title">
+            {{ page.title }}
+        </a>
+    </h2>
+	<div class="entry-content">
         {{ content }}
-    </article>
+    </div>
+</article>
 
-    <aside id="related">
-      <h2>Related Posts</h2>
-      <ul class="posts">
-        {% for post in site.related_posts limit:3 %}
-          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-      </ul>
-    </aside>
-    
-    
-    
-    <article id="5" class="post">
-
-			<h2 class="entry-title">	<a href="http://gravityonmars.com" class="title">Mad Men</a>
-	<a href="http://wp-svbtle.themeskult.com/2012/05/12/mad-men/" class="anchor"><img src="http://wp-svbtle.themeskult.com/wp-content/themes/svbtle/images/anchor.svg" class="scalable"></a>
-</h2>
-
-
-
-				<div class="entry-content">
-				<h1>Title</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque vehicula mollis. Sed elit sapien, pulvinar nec iaculis eget, aliquam ac ante. Integer sollicitudin sem vel purus eleifend ultricies.</p>
-<p><img src="http://wp-svbtle.themeskult.com/files/2012/05/bettydon.jpg" alt="" title="bettydon" class="alignnone size-full wp-image-96" /></p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque vehicula mollis. Sed elit sapien, pulvinar nec iaculis eget, aliquam ac ante. Integer sollicitudin sem vel purus eleifend ultricies.</p>
-<p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque vehicula mollis. Sed elit sapien, pulvinar nec iaculis eget, aliquam ac ante. Integer sollicitudin sem vel purus eleifend ultricies.</strong></p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque vehicula mollis. Sed elit sapien, pulvinar nec iaculis eget, aliquam ac ante. Integer sollicitudin sem vel purus eleifend ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque vehicula mollis. Sed elit sapien, pulvinar nec iaculis eget, aliquam ac ante. Integer sollicitudin sem vel purus eleifend ultricies.<br />
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque vehicula mollis. Sed elit sapien, pulvinar nec iaculis eget, aliquam ac ante. Integer sollicitudin sem vel purus eleifend ultricies.</p>
-							</div><!-- .entry-content -->
-	
-
-			
-			
-			<aside class="kudo kudoable" id="5">
-				<a href="?" class="kudobject">
-					<div class="opening clearfix">
-						<span class="circle">&nbsp;</span>
-					</div>
-				</a>
-		
-				<a href="?" class="counter">
-					<span class="num">717</span>
-					<span class="txt">Kudos</span>
-				</a>
-			</aside>
-		</article><!-- #post-## -->
+<aside id="related">
+  <h2>Related Posts</h2>
+  <ul class="posts">
+    {% for post in site.related_posts limit:3 %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</aside>
