@@ -3,37 +3,22 @@ layout: default
 title: Blog
 ---  
 <header id="begin">
-    <time datetime="{{ page.date }}" id="top_time">{{ page.date | date_to_string }}</time>
+    <time datetime="{{ site.date }}" id="top_time">{{ site.date | date_to_string }}</time>
 </header>
 {% for post in site.posts %}
-
-<article class="post">
-    <h2 class="entry-title">
-        <a href="{{ post.url }}" rel="bookmark" title="Permalink to {{ post.title }}" class="title">
-            {{ post.title }}
-        </a>
-    </h2>
-    <abbr class="published" title="{{ post.date | date_to_string }}">
-        {{ post.date | date_to_string }}
-    </abbr>
-	<div class="entry-content">
-        {{ post.content }}
-    </div>
-</article>
-
-    <li>
-        <h1 class="title">
-            <a href="{{ post.url }}" rel="bookmark" title="Permalink to {{ post.title }}">
+    <article class="post">
+        <h2 class="entry-title">
+            <a href="{{ post.url }}" rel="bookmark" title="Permalink to {{ post.title }}" class="title">
                 {{ post.title }}
             </a>
-        </h1>
+        </h2>
         <abbr class="published" title="{{ post.date | date_to_string }}">
             {{ post.date | date_to_string }}
         </abbr>
         <div class="entry-content">
             {{ post.content }}
         </div>
-    </li>
+    </article>
 {% endfor %}  
 
     
