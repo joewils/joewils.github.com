@@ -17,6 +17,8 @@ title: Blog
         </h3>
     </header>
 
+    <section id="posts">
+    <h1>{{ page.title }}</h1>
   	<dl>
 		<ol>
 			{% for post in site.posts %}
@@ -36,6 +38,7 @@ title: Blog
             {% endfor %}
 		</ol>
 	</dl>
+    </div>
     
     <p class="paginator">
         <!-- <a href="index2.html" class="button_accent" style="position: absolute; right: 0;">continue&nbsp;&nbsp;&nbsp;&rarr;</a> -->
