@@ -3,10 +3,21 @@ layout: default
 title: "JoeCode: Code with distinct characteristics traceable to its author."
 ---  
 
-<article id="5" class="post">
-    <h2 class="entry-title"><a href="/" class="title">{{ page.title }}</a></h2>
+    <header>
+        <h1>{{ page.title }}</h1>
+        <h3>
+            <script type="text/javascript">
+                var currentDate = new Date();
+                var day = currentDate.getDate();
+                var monthNames = [ "Jan", "Feb", "Mar", "Apr", "May", "June", "July", "Aug", "Sep", "Oct", "Nov", "Dec" ];
+                var month = monthNames[currentDate.getMonth()].toUpperCase();
+                var year = currentDate.getFullYear();
+                document.write(month + " " + day + ", " + year);
+            </script>
+        </h3>
+    </header>
 
-	<div class="entry-content">
+    <article>
         <h1>{{ page.title }}</h1>
         <blockquote>
           <p><strong>/joh&#8217; kohd&#8217;/ /n./</strong> 1. Code that is overly tense and unmaintainable. Perl may be a handy program, but if you look at the source, it's complete joe code. 2. Badly written, possibly buggy code. <strong>3. Code with distinct characteristics traceable to its author.</strong></p>
@@ -23,20 +34,7 @@ title: "JoeCode: Code with distinct characteristics traceable to its author."
         <p>You can explore my exceptionally average domestic life as father, outdoorsman, and amateur photographer on <a href="http://www.flickr.com/photos/joewils">flickr</a>, or <a href="https://twitter.com/joewils">twitter</a>.</p>
 
         <p>You can find out more about what is wrong with me at <a href="http://www.facebook.com/joewils">facebook</a>.</p>
-    </div><!-- .entry-content -->
-	
-    <!-- <aside class="kudo kudoable" id="5">
-        <a href="?" class="kudobject">
-            <div class="opening clearfix">
-                <span class="circle">&nbsp;</span>
-            </div>
-        </a>
-
-        <a href="?" class="counter">
-            <span class="num">717</span>
-            <span class="txt">Kudos</span>
-        </a>
-    </aside> -->
-</article><!-- #post-## -->
+    </article>
+    
 				
 
