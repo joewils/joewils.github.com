@@ -7,7 +7,7 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.5, minimum-scale=0.5">
-		<title>wordpress svbtle</title>
+		<title>{{ page.title }}</title>
 		<link rel="stylesheet" type="text/css" media="all" href="/css/wp-svbtle.css" />
         <link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
 		<!--[if lt IE 9]>
@@ -16,11 +16,11 @@
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
 <style>
-    /*blockquote {border-color: #ff0000;}
+    blockquote {border-color: #ff0000;}
     aside#logo,aside#logo div a,ul#user_meta a:hover span.link_logo_inside,ul#user_meta a:hover span.link_logo,aside.kudo.complete span.circle {background-color: #ff0000;}
     section.preview header#begin h2,ul#user_meta a:hover,nav.pagination span.next a,nav.pagination span.prev a {color: #ff0000;}
     ul#user_meta a:hover,nav.pagination span.next a,nav.pagination span.prev a {border-color: #ff0000;}::
-    -moz-selection { background: #ff0000; color: #fff; text-shadow: none;}::selection { background: #ff0000; color: #fff; text-shadow: none;}*/
+    -moz-selection { background: #ff0000; color: #fff; text-shadow: none;}::selection { background: #ff0000; color: #fff; text-shadow: none;}
 </style>
 		
 <style type="text/css">
@@ -35,149 +35,51 @@
 		<header id="sidebar">
 		  <aside id="logo" class="clearfix">
 		    <div class="clearfix">
-		      <a href="http://wp-svbtle.themeskult.com/">wordpress svbtle</a>
+		      <a href="/">{{ site.title }}</a>
 		    </div>
 		  </aside>
 		  <ul id="user_meta">
 		    <li class="blog_name">  
 		      <h1 id="blog_name">
-			      <a href="http://wp-svbtle.themeskult.com/">wordpress svbtle</a>
+			      <a href="/">{{ site.title }}</a>
 		      </h1>
 		    </li>
 				<li class="blog_owner">  
 		      <h2 id="blog_owner">
-		        <a href="http://wp-svbtle.themeskult.com/">Ricardo Rauch</a>
+		        <a href="/">Joe Wilson</a>
 		      </h2>
 		    </li>
 		    <li class="tagline">
-		      <h2 id="tagline">
-		        simple and clean theme		      </h2>
+		      <h2 id="tagline">tagline goes here...</h2>
 		    </li>
-			
-									<li class="link twitter">
-						<a target="_blank" href="http://twitter.com/themeskult">@themeskult</a>
-					</li>
-				
-								
-									<li class="link email">
-						<a href="mailto:work@gravityonmars.com">						
-							say hello</a> 
-					</li>
-							
-									<li class="link feed">
-				      <a href="http://wp-svbtle.themeskult.com/feed/rss/">feed</a>
-				    </li>		
-						
-		
-				
+			<li class="link twitter">
+				<a target="_blank" href="http://twitter.com/joewils">@joewils</a>
+			</li>
+			<li class="link email">
+				<a href="mailto:joe@joecode.com">email</a>
+            </li>
+			<li class="link feed">
+                <a href="/feed/rss/">feed</a>
+			</li>
 		  </ul>
 		  <aside id="svbtle_linkback">
-		    <a href="https://github.com/gravityonmars/wp-svbtle">
-		      <span class="logo_square"><span class="logo_circle">&nbsp;</span></span>&nbsp;<span class="svbtle">wp-svbtle</span>
+		    <a href="https://github.com/joewils/">
+		      <span class="logo_square"><span class="logo_circle">&nbsp;</span></span>&nbsp;<span class="svbtle">github</span>
 		    </a>
 		  </aside>
 		</header>
 		
 		<section id="river" role="main">
-
-<div class="entry-meta">
-	
-</div><!-- .entry-meta -->
-
-<header id="begin">
-	<time datetime="2012-10-24" id="top_time">October 24, 2012</time>
-</header>
+            <header id="begin">
+                <time datetime="{{ site.time | date_to_string }}" id="top_time">{{ site.time | date_to_string }}</time>
+            </header>
+            {{ content }}
+        </section><!-- #main -->
 
 
-		<article id="5" class="post">
-
-			<h2 class="entry-title">	<a href="http://gravityonmars.com" class="title">Mad Men</a>
-	<a href="http://wp-svbtle.themeskult.com/2012/05/12/mad-men/" class="anchor"><img src="http://wp-svbtle.themeskult.com/wp-content/themes/svbtle/images/anchor.svg" class="scalable"></a>
-</h2>
-
-
-
-				<div class="entry-content">
-				<h1>Title</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque vehicula mollis. Sed elit sapien, pulvinar nec iaculis eget, aliquam ac ante. Integer sollicitudin sem vel purus eleifend ultricies.</p>
-<p><img src="http://wp-svbtle.themeskult.com/files/2012/05/bettydon.jpg" alt="" title="bettydon" class="alignnone size-full wp-image-96" /></p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque vehicula mollis. Sed elit sapien, pulvinar nec iaculis eget, aliquam ac ante. Integer sollicitudin sem vel purus eleifend ultricies.</p>
-<p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque vehicula mollis. Sed elit sapien, pulvinar nec iaculis eget, aliquam ac ante. Integer sollicitudin sem vel purus eleifend ultricies.</strong></p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque vehicula mollis. Sed elit sapien, pulvinar nec iaculis eget, aliquam ac ante. Integer sollicitudin sem vel purus eleifend ultricies. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque vehicula mollis. Sed elit sapien, pulvinar nec iaculis eget, aliquam ac ante. Integer sollicitudin sem vel purus eleifend ultricies.<br />
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pellentesque vehicula mollis. Sed elit sapien, pulvinar nec iaculis eget, aliquam ac ante. Integer sollicitudin sem vel purus eleifend ultricies.</p>
-							</div><!-- .entry-content -->
-	
-
-			
-			
-			<aside class="kudo kudoable" id="5">
-				<a href="?" class="kudobject">
-					<div class="opening clearfix">
-						<span class="circle">&nbsp;</span>
-					</div>
-				</a>
-		
-				<a href="?" class="counter">
-					<span class="num">717</span>
-					<span class="txt">Kudos</span>
-				</a>
-			</aside>
-		</article><!-- #post-## -->
-
-
-
-</section><!-- #main -->
-
-
-<script data-cfasync="false" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+        <script data-cfasync="false" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
 		</div><!-- #wrap -->
 		
-			</body>
-</html>
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <link rel="stylesheet" type="text/css" href="/css/wp-svbtl.css">
-	<link rel="stylesheet" type="text/css" href="/css/style.css">
-	<link rel="stylesheet" type="text/css" href="/css/pygments.css">
-	<link href='http://fonts.googleapis.com/css?family=Open+Sans:800,400,300|Inconsolata' rel='stylesheet' type='text/css'>
-
-	<link href="/feeds/atom.xml" type="application/atom+xml" rel="alternate" title="joewils.github.com atom feed" />
-
-    <title>{{ page.title }}</title>
-	<meta charset="utf-8" />
-</head>
-<body>
-	<section id="sidebar">
-		<figure id="user_logo">
-			<a href="/"><div class="logo"><img src="/images/icons/mine_cross_large.png"/></div></a>
-		</figure>
-
-		<div class="user_meta">
-			<h1 id="user"><a href="/" class="">Joe Wilson</a></h1>
-			<h2></h2>
-			<ul>
-				<li><a href="https://twitter.com/joewils">@joewils</a></li>
-                <li><a href="mailto:joe @ joecode.com">email</a></li>
-                <li><a href="https://github.com/joewils">github</a></li>
-                <li><a href="http://www.linkedin.com/in/joewils">linkedin</a></li>
-			</ul>
-		</div>
-		<footer>
-			<address>
-				Powered by <a href="https://github.com/mojombo/jekyll/">Jekyll</a>.
-			</address>
-		</footer>
-	</section>
-
-	<section id="posts">
-
-        {{ content }}
-	
-	</section>
-
-</body>
+    </body>
 </html>
