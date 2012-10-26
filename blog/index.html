@@ -1,0 +1,27 @@
+---
+layout: default
+title: Blog
+---  
+<header id="begin">
+    <time datetime="{{ site.time }}" id="top_time">{{ site.time | date_to_string }}</time>
+</header>
+{% for post in site.posts %}
+    <article class="post">
+        <h2 class="entry-title">
+            <a href="{{ post.url }}" rel="bookmark" title="Permalink to {{ post.title }}" class="title">
+                {{ post.title }}
+            </a>
+        </h2>
+        <abbr class="published" title="{{ post.date | date_to_string }}">
+            {{ post.date | date_to_string }}
+        </abbr>
+        <div class="entry-content">
+            {{ post.content }}
+        </div>
+    </article>
+{% endfor %}  
+
+    
+<p class="paginator">
+    <!-- <a href="index2.html" class="button_accent" style="position: absolute; right: 0;">continue&nbsp;&nbsp;&nbsp;&rarr;</a> -->
+</p>
