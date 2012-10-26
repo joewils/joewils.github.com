@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html dir="ltr" lang="en-US" class="no-js ie ie6 lte7 lte8 lte9"><![endif]-->
+<!--[if IE 7 ]><html dir="ltr" lang="en-US" class="no-js ie ie7 lte7 lte8 lte9"><![endif]-->
+<!--[if IE 8 ]><html dir="ltr" lang="en-US" class="no-js ie ie8 lte8 lte9"><![endif]-->
+<!--[if IE 9 ]><html dir="ltr" lang="en-US" class="no-js ie ie9 lte9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html dir="ltr" lang="en-US" class="no-js"><!--<![endif]-->
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.5, minimum-scale=0.5">
+		<title>{{ page.title }}</title>
+		<link rel="stylesheet" type="text/css" media="all" href="/css/wp-svbtl.css" />
+        <link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
+		<!--[if lt IE 9]>
+			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	</head>
+	<body class="home blog">
+		<header id="sidebar">
+		  <aside id="logo" class="clearfix">
+		    <div class="clearfix">
+		      <a href="/">{{ site.title }}</a>
+		    </div>
+		  </aside>
+		  <ul id="user_meta">
+		    <li class="blog_name">  
+		      <h1 id="blog_name">
+			      <a href="/">{{ site.title }}</a>
+		      </h1>
+		    </li>
+				<li class="blog_owner">  
+		      <h2 id="blog_owner">
+		        <a href="/">Joe Wilson</a>
+		      </h2>
+		    </li>
+		    <li class="tagline">
+		      <h2 id="tagline">{{ site.tagline }}</h2>
+		    </li>
+  			<li class="link twitter">
+  				<a target="_blank" href="http://twitter.com/joewils">@joewils</a>
+  			</li>
+  			<li class="link email">
+  				<a href="mailto:joe@joecode.com">joe@joecode.com</a>
+        </li>
+  			<li class="link linkedin">
+          <a href="http://www.linkedin.com/in/joewils">linkedin</a>
+  			</li>
+		  </ul>
+		  <aside id="svbtle_linkback">
+		    <a href="https://github.com/joewils/joewils.github.com">
+		      <span class="logo_square"><span class="logo_circle">&nbsp;</span></span>&nbsp;<span class="svbtle">github</span>
+		    </a>
+		  </aside>
+		</header>
+		<section id="river" role="main">
+		  <header id="begin">
+          <time datetime="{{ site.time }}" id="top_time">{{ site.time | date_to_string }}</time>
+      </header>
+
+      <article id="5" class="post">
+          <h2 class="entry-title">
+              <a href="{{ page.url }}" rel="bookmark" title="Permalink to {{ post.title }}" class="title">
+                  {{ page.title }}
+              </a>
+          </h2>
+
+      	<div class="entry-content">
+          {{ content }}
+        </div>
+      </article>
+    </section><!-- #main -->
+      <script data-cfasync="false" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    </body>
+</html>
