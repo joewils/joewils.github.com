@@ -1,0 +1,27 @@
+---
+layout: page
+title: "Day Of The Year"
+---
+
+<script type="text/javascript" charset="utf-8">
+    $(function(){
+        // day of the year
+        var today = new Date();
+        var month = today.getMonth() + 1
+        var day = today.getDate()
+        var year = today.getFullYear()
+        var first = new Date(today.getFullYear(), 0, 1);
+        var doty = Math.round(((today - first) / 1000 / 60 / 60 / 24) + .5, 0);
+
+      	// set doty display div
+        $("#doty").text("Day of the Year: " + doty);
+
+      	// set current dat div
+      	var currentDate = month + "/" + day + "/" + year;
+        $("#date").text("Today's Date: " + currentDate);
+
+    });
+</script>
+
+<h1 id="doty"></h1>
+<h2 id="date"></h2>
