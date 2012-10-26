@@ -17,40 +17,7 @@
 	</head>
 	<body class="home blog">
 		<header id="sidebar">
-		  <aside id="logo" class="clearfix">
-		    <div class="clearfix">
-		      <a href="/">{{ site.title }}</a>
-		    </div>
-		  </aside>
-		  <ul id="user_meta">
-		    <li class="blog_name">  
-		      <h1 id="blog_name">
-			      <a href="/">{{ site.title }}</a>
-		      </h1>
-		    </li>
-				<li class="blog_owner">  
-		      <h2 id="blog_owner">
-		        <a href="/">Joe Wilson</a>
-		      </h2>
-		    </li>
-		    <li class="tagline">
-		      <h2 id="tagline">{{ site.tagline }}</h2>
-		    </li>
-  			<li class="link twitter">
-  				<a target="_blank" href="http://twitter.com/joewils">@joewils</a>
-  			</li>
-  			<li class="link email">
-  				<a href="mailto:joe@joecode.com">joe@joecode.com</a>
-        </li>
-  			<li class="link linkedin">
-          <a href="http://www.linkedin.com/in/joewils">linkedin</a>
-  			</li>
-		  </ul>
-		  <aside id="svbtle_linkback">
-		    <a href="https://github.com/joewils/joewils.github.com">
-		      <span class="logo_square"><span class="logo_circle">&nbsp;</span></span>&nbsp;<span class="svbtle">github</span>
-		    </a>
-		  </aside>
+		  {% include nav.html %}
 		</header>
 		<section id="river" role="main">
       {{ content }}
