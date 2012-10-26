@@ -3,8 +3,6 @@ layout: page
 title: "Joe Wilson's Resume"
 ---
 
-# Joe Wilson's Resume
-
 ## Contact
 
 7023 Autumn AVE SE,  
