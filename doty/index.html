@@ -13,10 +13,10 @@ title: "Day Of The Year"
         var first = new Date(today.getFullYear(), 0, 1);
         var doty = Math.round(((today - first) / 1000 / 60 / 60 / 24) + .5, 0);
 
-      	// set doty display div
+      	// set doty 
         $("#doty").text("Day of the Year: " + doty);
 
-      	// set current dat div
+      	// set current date
       	var currentDate = month + "/" + day + "/" + year;
         $("#date").text("Today's Date: " + currentDate);
 
