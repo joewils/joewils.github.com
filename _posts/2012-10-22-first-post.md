@@ -5,7 +5,10 @@ categories:
 - test
 - foo
 - bar
-- joe was here
+tags:
+- test
+- foo
+- bar
 ---
 
 {{ page.title }}
