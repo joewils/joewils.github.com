@@ -33,3 +33,15 @@
     aside.kudo.complete span.circle {
         background-image: url(/images/icons/mine_cross_large.png);
     }
+    
+    aside#related {
+        width: auto;
+        display: block;
+        position: relative;
+        padding-left: 50px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        border-top: 1px solid #e2e2e2;
+        min-height: 130px;
+        overflow-x: hidden;
+    }
