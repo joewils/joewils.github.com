@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MacBook Pro: Distorted video or no video issues
+title: "MacBook Pro: Distorted video or no video issues"
 categories:
 - bookmark
 tags:
