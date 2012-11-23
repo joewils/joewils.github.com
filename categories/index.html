@@ -2,16 +2,16 @@
 layout: page
 title: Categories
 ---
-
+<h2>Categories</h2>
 <ul>
 {% for category in site.categories %}
   <li><a href="#{{ category | first }}">{{ category | first }}</a></li>
 {% endfor %}
 </ul>
+
 <h2>Articles by Category:</h2>
-<ul>
 {% for category in site.categories %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
+    <h3><a name="{{ category | first }}">{{ category | first }}</a></h3>
     <ul>
     {% for posts in category %}
       {% for post in posts %}
@@ -19,15 +19,13 @@ title: Categories
       {% endfor %}
     {% endfor %}
     </ul>
-  </li>
 {% endfor %}
-</ul>
 
-<h1>Foo Category:</h1>
+<!-- <h1>Foo Category:</h1>
 {% for post in site.categories.foo %}
 <h2><a href=".{{ post.url }}">{{ post.title }}</a></h2>
 {{ post.content }}
-{% endfor %}
+{% endfor %} -->
 
 <h1>Tags</h1>
 <ul>
@@ -35,10 +33,10 @@ title: Categories
   <li><a href="#{{ tag | first }}">{{ tag | first }}</a></li>
 {% endfor %}
 </ul>
+
 <h2>Articles by Tag:</h2>
-<ul>
 {% for tag in site.tags %}
-  <li><a name="{{ tag | first }}">{{ tag | first }}</a>
+    <h3><a name="{{ tag | first }}">{{ tag | first }}</a></h3>
     <ul>
     {% for posts in tag %}
       {% for post in posts %}
@@ -46,6 +44,4 @@ title: Categories
       {% endfor %}
     {% endfor %}
     </ul>
-  </li>
 {% endfor %}
-</ul>
