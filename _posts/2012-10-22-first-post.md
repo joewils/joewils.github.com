@@ -2,13 +2,11 @@
 layout: post
 title: First Post!
 categories:
-- test
-- foo
-- bar
+- foocat
+- barcat
 tags:
-- test
-- foo
-- bar
+- footag
+- bartag
 ---
 
 {{ page.title }}
