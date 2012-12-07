@@ -5,9 +5,9 @@ title: "Joe Wilson's Resume"
 
 ## Contact
 
-7023 Autumn AVE SE,  
+<!-- 7023 Autumn AVE SE,  
 Snoqualmie, WA 98065  
-(208) 651-3125  
+(208) 651-3125  -->
 <joe@joecode.com>
 
 Web development and information technology professional with thirteen years of startup and enterprise experience.
