@@ -10,4 +10,4 @@ tags:
 
 [http://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm](http://www.glassdoor.com/Best-Places-to-Work-LST_KQ0,19.htm).
 
-![REI Glassdoor Rank](/images/posts/GlassDoorWork2012Capture.png)
+![REI Glassdoor Rank](/images/posts/GlassDoorWork2012Capture.PNG)
