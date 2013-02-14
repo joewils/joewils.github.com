@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset='UTF-8'>
+	
+	<title>Full Browser Width Bars</title>
+	
+	<style>
+
+        html { overflow-x: hidden; background:#999;}
+
+        p {margin:0;padding:15px;}        
+        
+        section {
+           width: 940px;
+           margin: 0 auto;
+           padding:0;
+           background:#fff;
+        }
+                
+        article {
+           width: 1024px;
+           margin: 0 auto;
+           padding:0;
+           background:#fff;
+        }
+        
+        h2 {
+          background:magenta;
+          color: black;
+          padding: 15px 0;
+          margin:0;
+          position: relative;
+        }
+        h2:before, h2:after {
+          content: "";
+          background: magenta;
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          width: 9999px;
+        }
+        h2:before {
+          right: 100%;
+          background: magenta;
+        }
+        h2:after {
+          left: 100%;
+        }
+        
+        #foobar {
+          background:#dc4916;
+          height:439px;
+          color: black;
+          padding: 0;
+          position: relative;
+        }
+        #foobar:before, #foobar:after {
+          content: "";
+          background: #fff;
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          width: 9999px;
+        }
+        #foobar:before {
+          right: 100%;
+          background: #dc4916;
+        }
+        #foobar:after {
+          left: 100%;
+        }
+        #foobar img {
+            margin:0;
+            padding:0;
+            border:0;
+            z-index:2;
+        }
+        
+        /*h2:nth-of-type(1), h2:nth-of-type(1):before, h2:nth-of-type(1):after { background: #dc4916; }
+        h2:nth-of-type(2), h2:nth-of-type(2):before, h2:nth-of-type(2):after { background: #6871b1; }
+        h2:nth-of-type(3), h2:nth-of-type(3):before, h2:nth-of-type(3):after { background: #d1b935; }*/
+        
+        .left-only:after {
+          display: none;
+        }
+        
+        .right-only:before {
+          width: 20px;
+        }
+    	
+	</style>
+</head>
+
+<body>
+	<section>
+		<h1>Full Browser Width Bars</h1>
+        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+		<h2>Full Width</h2>
+        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+		<h2>Left Orange, Right White Bar</h2>
+        <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+    </section>
+    
+    <article>
+        <div id="foobar"><img src="images/zanthia-iceland-flyfisherman-8470268477.jpg"/></div>
+    </article>
+    
+    <section>
+		<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+		<h2 class="left-only">Left Bar</h2>
+		<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+		<h2 class="right-only">Right Bar</h2>
+		<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+	</section>
+</body>
+
+</html>
