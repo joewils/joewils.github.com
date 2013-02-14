@@ -5,10 +5,15 @@
 	<meta charset='UTF-8'>
 	
 	<title>Full Browser Width Bars</title>
+    
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.js"></script>
+    <script src="http://ajax.aspnetcdn.com/ajax/modernizr/modernizr-2.0.6-development-only.js"></script>
+    
+    <!--[if lt IE 9]><script src="js/html5shiv.js"></script><![endif]-->
 	
 	<style>
 
-        html { overflow-x: hidden; background:#999;}
+        html { overflow-x: hidden; background:#fff;}
 
         p {margin:0;padding:15px;}        
         
@@ -58,7 +63,7 @@
         }
         #foobar:before, #foobar:after {
           content: "";
-          background: #fff;
+          background: #999;
           position: absolute;
           top: 0;
           bottom: 0;
