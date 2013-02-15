@@ -24,20 +24,20 @@ title: "JoeCode: Code with distinct characteristics traceable to its author."
     
 <div id="post-pagination" class="pagination">
   {% if paginator.previous_page %}
-  <p class="previous">
+  <span class="previous">
     {% if paginator.previous_page == 1 %}
-    <a href="/">Previous</a>
+    <a href="/">Previous</a> 
     {% else %}
-    <a href="/page{{paginator.previous_page}}">Previous</a>
+    <a href="/page{{paginator.previous_page}}">Previous</a> 
     {% endif %}
-  </p>
+  </span>
   {% else %}
-  <p class="previous disabled">
+  <span class="previous disabled">
     <span>Previous</span>
-  </p>
+  </span>
   {% endif %}
 
-  <ul class="pages">
+  <!-- <ul class="pages">
     <li class="page">
       {% if paginator.page == 1 %}
       <span class="current-page">1</span>
@@ -55,16 +55,15 @@ title: "JoeCode: Code with distinct characteristics traceable to its author."
       {% endif %}
     </li>
     {% endfor %}
-  </ul>
+  </ul> -->
 
   {% if paginator.next_page %}
-  <p class="next">
+  <span class="next">
     <a href="/page{{paginator.next_page}}">Next</a>
-  </p>
+  </span>
   {% else %}
-  <p class="next disabled">
+  <span class="next disabled">
     <span>Next</span>
-  </p>
+  </span>
   {% endif %}
-
 </div>
