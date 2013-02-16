@@ -61,3 +61,15 @@
     #post-pagination ul{
         display: inline;
     }
+
+    #post-pagination a{
+        color:#f00;
+    }
+
+    #post-pagination a:hover{
+        text-decoration:underline;
+    }
+
+    #post-pagination .next {
+        float:right;
+    }
