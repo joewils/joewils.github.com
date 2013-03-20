@@ -6,13 +6,13 @@ layout: nil
 	
 	<title type="text" xml:lang="en">JoeCode</title>
 	<link type="application/atom+xml" href="http://paulstamatiou.com/feed/" rel="self"/>
- 	<link type="text" href="http://paulstamatiou.com" rel="alternate"/>
+ 	<link type="text" href="http://joecode.com" rel="alternate"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://joecode.com</id>
 	<author>
 		<name>Joe Wilson</name>
 	</author>
-	<rights>Copyright (c) 2005-2013, Joe Wilson; all rights reserved.</rights>
+	<rights>Copyright (c) 2013, Joe Wilson; all rights reserved.</rights>
 	
 	{% for post in site.posts limit:20 %}
 	<entry>
