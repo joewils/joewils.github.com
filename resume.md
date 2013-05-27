@@ -10,21 +10,23 @@ Snoqualmie, WA 98065
 (208) 651-3125  -->
 <joe@joecode.com>
 
-Web development and information technology professional with thirteen years of startup and enterprise experience.
+Web development and information technology professional with fourteen years of startup and enterprise experience.
 
 ## Experience
 
-### Web Developer, REI -- Oct 2011 - Current
+### Senior Web Developer, REI -- Oct 2011 - Current
 
-Responsible for architecting, delivering, and teaching other developers how to best use the 960 Grid System and guiding developers on the best method for creating and using JavaScript, especially jQuery in a manner that produces loosely coupled and independent front end components suitable for complex CMS deployment.   
+Responsible for architecting, delivering, and coaching developers on how to best use front end framework technologies (960 GS, Twitter Bootstrap, jQuery, Skeleton, etc...).  
 <http://www.rei.com/>
 
-*   CQ5 Content Management System Migration
-*   Working with a small and dedicated Agile team to rewrite front-end templates using the latest HTML5 and CSS3 progressive enhancement techniques.
+*   CQ5 Content Management System
+*	Complex JSP/JSTL Templating
+*	Responsive Web Design Techniques
+*   Agile Development (Scrum and Kanban)
 
 ### Senior Web Developer, Ascentium Corporation -- Sept 2010 - Sept 2011
 
-Responsible for building killer websites at Microsoft, T-Mobile, Mastercard, Intel, Precor, Georgetown Brewing, and AT&T Wireless using modern HTML, CSS, and Javascript standards with a focus on mobile first development using a mix of .Net or PHP with a generous sprinkling of jQuery and CSS3.  
+Responsible for building websites at Microsoft, T-Mobile, Mastercard, Intel, Precor, Georgetown Brewing, and AT&T Wireless using modern HTML, CSS, and Javascript standards with a focus on mobile first development using a mix of .Net or PHP with a generous sprinkling of jQuery and CSS3.  
 <http://ascentium.com>
 
 *   **Microsoft Office for Business Campaign:** My team and I delivered a highly interactive jQuery driven user experience to facilitate selling the benefits of Microsoft Office for medium to large business organizations. <http://www.microsoft.com/office/business/> 
