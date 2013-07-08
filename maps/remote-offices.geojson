@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.871682,
+          47.530191
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Snoqualmie Public Library",
+        "address": "7824 Center Blvd SE, Snoqualmie, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.872516,
+          47.529842
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "Snoqualmie Starbucks",
+        "address": "7730 Center Blvd SE, Snoqualmie, WA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.873023,
+          47.529998
+        ]
+      },
+      "properties": {
+        "marker-symbol": "bar",
+        "name": "SnoValley Coffee Company",
+        "address": "7811 Center Boulevard Southeast, Snoqualmie, WA 98065"
+      }
+    }
+  ]
+}
