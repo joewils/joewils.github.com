@@ -11,8 +11,8 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
-        "name": "Snoqualmie Public Library",
+        "marker-symbol": "cafe",
+        "name": "Snoqualmie Starbucks",
         "address": "7824 Center Blvd SE, Snoqualmie, WA"
       }
     },
@@ -26,8 +26,8 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
-        "name": "Snoqualmie Starbucks",
+        "marker-symbol": "library",
+        "name": "Snoqualmie Public Library",
         "address": "7730 Center Blvd SE, Snoqualmie, WA"
       }
     },
@@ -41,7 +41,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "bar",
+        "marker-symbol": "cafe",
         "name": "SnoValley Coffee Company",
         "address": "7811 Center Boulevard Southeast, Snoqualmie, WA 98065"
       }
