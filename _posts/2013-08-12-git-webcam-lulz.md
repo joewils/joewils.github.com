@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "git + webcam = lulz"
+title: "git webcam lulz"
 categories:
 - bookmark
 tags:
@@ -8,7 +8,7 @@ tags:
 - fun
 - git
 ---
-![git + webcam = lulz](/images/posts/gitlulz.png)
+![git webcam lulz](/images/posts/gitlulz.png)
 
 > git blame has never been so much fun
 
