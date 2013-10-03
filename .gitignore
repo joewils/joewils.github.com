@@ -164,3 +164,10 @@ pip-log.txt
 
 # Jekyll
 _site/
+
+# Bootstrap
+bower_components/bootstrap/_gh_pages
+bower_components/bootstrap/_includes
+bower_components/bootstrap/_layouts
+bower_components/bootstrap/node_modules
+
