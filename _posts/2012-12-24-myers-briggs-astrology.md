@@ -6,7 +6,7 @@ categories:
 tags:
 - business
 - astrology
-- myers briggs
+- myersbriggs
 ---
 
 > "There is such a factor as introversion, there is such a factor as extraversion. The classification of individuals means nothing, nothing at all." 

@@ -1,4 +1,9 @@
+# Dependencies
+markdown: rdiscount
+pygments: true
+
+# Vars
 title: JoeCode
 tagline: Code with distinct characteristics traceable to its author.
-paginate: 20
- 
+paginate: 10
+paginate_path: "noise/:num"

@@ -4,7 +4,7 @@ title: "Hackers & Store"
 categories:
 - bookmark
 tags:
-- hacker news
+- hackernews
 - ecommerce
 ---
 Very clean aggragation of ecommerce links from my favorite news site (Hacker News):
