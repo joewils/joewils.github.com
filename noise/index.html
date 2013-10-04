@@ -1,0 +1,41 @@
+---
+layout: default
+title: "JoeCode: Code with distinct characteristics traceable to its author."
+---  
+<header id="begin">
+    <time datetime="{{ site.time }}" id="top_time">{{ site.time | date_to_string }}</time>
+</header>
+{% for post in paginator.posts %}
+    <article class="post">
+        <h2 class="entry-title">
+            <a href="{{ post.url }}" rel="bookmark" title="Permalink to {{ post.title }}" class="title">
+                {{ post.title }}
+            </a>
+        </h2>
+        <abbr class="published" title="{{ post.date | date_to_string }}">
+            {{ post.date | date_to_string }}
+        </abbr>
+        <div class="entry-content">
+            {{ post.content }}
+        </div>
+    </article>
+{% endfor %}  
+
+    
+<div id="post-pagination" class="pagination">
+  {% if paginator.previous_page %}
+  <span class="previous">
+    {% if paginator.previous_page == 1 %}
+    <a href="/noise/">Previous</a> 
+    {% else %}
+    <a href="/noise/{{paginator.previous_page}}">Previous</a> 
+    {% endif %}
+  </span>
+  {% endif %}
+
+  {% if paginator.next_page %}
+  <span class="next">
+    <a href="/noise/{{paginator.next_page}}">Next</a>
+  </span>
+  {% endif %}
+</div>
