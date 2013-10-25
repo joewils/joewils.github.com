@@ -22,5 +22,5 @@ The best part was building a guest book app in RoR while the class did it with .
 
 You should have seen his face when this happened:
 
-  rails generate scaffold Guestbook title:string comments:text
+> rails generate scaffold Guestbook title:string comments:text
 
