@@ -6,6 +6,7 @@ categories:
 - development
 - ecommerce
 - javascript
+fb_image: images/posts/creditcard-js.png
 ---
 
 Creditcard.js is a more usable credit card form: [http://creditcardjs.com](http://creditcardjs.com)

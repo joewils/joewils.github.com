@@ -7,6 +7,11 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.5, minimum-scale=0.5">
+		{% if page.fb_image %}
+			<meta property="og:image" content="http://joecode.com/{{ page.fb_image }}"/>
+		{% else %}
+			<meta property="og:image" content="http://joecode.com/{{ site.fb_image }}"/>
+		{% endif %}
 		<title>{{ page.title }}</title>
 		<link rel="stylesheet" type="text/css" media="all" href="/css/wp-svbtl.css" />
         <link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />

@@ -7,3 +7,4 @@ title: JoeCode
 tagline: Code with distinct characteristics traceable to its author.
 paginate: 10
 paginate_path: "noise/:num"
+fb_image: "images/fb-joecode-logo.png"
