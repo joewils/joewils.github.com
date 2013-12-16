@@ -28,4 +28,4 @@ categories:
   })(document, 'script');</script>
 </div>
 
-Please use the form, I really don't want to update [https://github.com/joewils/awfulrecruiters.com/blob/master/recruiters.yml](AwfulRecruiters).
+Please use the form, I really don't want to update [AwfulRecruiters](https://github.com/joewils/awfulrecruiters.com/blob/master/recruiters.yml).
