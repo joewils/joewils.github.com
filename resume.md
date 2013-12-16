@@ -5,24 +5,34 @@ title: "Joe Wilson's Resume"
 
 ## Contact
 
-<!-- 7023 Autumn AVE SE,  
-Snoqualmie, WA 98065  
-(208) 651-3125  -->
-<joe@joecode.com>
+<http://joecode.com/contact.html>
 
 Web development and information technology professional with fourteen years of startup and enterprise experience.
 
 ## Experience
 
-### Senior Web Developer, REI -- Oct 2011 - Current
+### Principal Developer, Wurts & Associates -- Oct 2013 - current
+
+Responsible for leading the technology direction for risk based services. This includes designing and developing web applications to support internal risk analysis platforms and supporting client reporting applications. 
+<http://www.wurts.com/>
+
+* Ruby on Rails
+* BarraOne BDTI SOAP Interface
+* Bloomberg Data API
+* Node.js
+* Responsive Web Design
+* Agile Development (Kanban)
+
+
+### Senior Web Developer, REI -- Oct 2011 - Sept 2013
 
 Responsible for architecting, delivering, and coaching developers on how to best use front end framework technologies (960 GS, Twitter Bootstrap, jQuery, Skeleton, etc...).  
 <http://www.rei.com/>
 
-*   CQ5 Content Management System
+* CQ5 Content Management System
 *	Complex JSP/JSTL Templating
 *	Responsive Web Design Techniques
-*   Agile Development (Scrum and Kanban)
+* Agile Development (Scrum and Kanban)
 
 ### Senior Web Developer, Ascentium Corporation -- Sept 2010 - Sept 2011
 
