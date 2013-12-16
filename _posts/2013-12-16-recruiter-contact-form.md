@@ -6,7 +6,7 @@ categories:
 - recruiters
 ---
 
-<div style="width:90%">
+<div style="width:90%; margin-top:15px;">
   <div id="wufoo-zly4jte1vp8d4t">
     <a href="https://joewils.wufoo.com/forms/zly4jte1vp8d4t">Contact Form</a>.
   </div>
@@ -28,4 +28,4 @@ categories:
   })(document, 'script');</script>
 </div>
 
-Please use the form, I really don't want to update (AwfulRecruiters)[https://github.com/joewils/awfulrecruiters.com/blob/master/recruiters.yml].
+Please use the form, I really don't want to update [https://github.com/joewils/awfulrecruiters.com/blob/master/recruiters.yml](AwfulRecruiters).
