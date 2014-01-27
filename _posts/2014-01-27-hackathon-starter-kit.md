@@ -12,12 +12,3 @@ categories:
 * [https://github.com/sahat/hackathon-starter](https://github.com/sahat/hackathon-starter)
 * [http://hackathonstarter.herokuapp.com](http://hackathonstarter.herokuapp.com)
 
-* Email Auth
-* OAuth
-* MVC
-* LESS
-* Bootstrap 3
-* Sendgrid
-* Express.js
-* Node.js
-* MongoDB
