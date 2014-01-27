@@ -8,8 +8,8 @@ title: Practice Plan
 | 00 | Wildcat Warmup |
 | 10 | 3 Person Line Drill |
 | 20 | 40YD Pass on the Run |
-| 25 | Sit Down Circle: B-Team Pep Talk |
-| 30 | Water |
+| 30 | Sit Down Circle: B-Team Pep Talk |
+| 35 | Water |
 | 40 | Fish Hook Ball Down Drill |
 | 50 | Four Corners (Rotate and Protect) |
 | 60 | Four Corners (Over the Shoulder) |
