@@ -30,7 +30,7 @@ title: Practice Plan
 
 ### Fish Hook Ball Down Drill
 
-4 or 5 lines with a cone 10 yards out.  Ball starts between player and cone.  First player runs, attacks the ball, mover around the cone and sets the ball for the next player.  Rinse and repeat through the line.
+4 or 5 lines with a cone 10 yards out.  Ball starts between player and cone.  First player runs, attacks the ball, moves around the cone and sets the ball for the next player. Focus on protecting ball (cradle and shoulders).
 
 ### Shape Drill w/ Goalie
 
