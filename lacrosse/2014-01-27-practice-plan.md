@@ -28,6 +28,10 @@ title: Practice Plan
 * 15YD Shuffle (x2)
 * 15YD 3/4 Speed Sprints (x2)
 
+### Fish Hook Ball Down Drill
+
+4 or 5 lines with a cone 10 yards out.  Ball starts between player and cone.  First player runs, attacks the ball, mover around the cone and sets the ball for the next player.  Rinse and repeat through the line.
+
 ### Shape Drill w/ Goalie
 
-This is a man down defense drill.  Two lines.  One line of defenders and 1/2 of the Middies behind the cage.  Other line of Attack and Middes at top of box.  Coach calls out two numbers.  First number is amount of defenders. Second number is Attack.  Defense needs to call out a shape. 12 == "Dot", 23 == "I", 34 == "Triangle", 45 == "Box"  Offense has 20 seconds to make a shot.  Rotate.
+This is a man down defense drill.  Two lines.  One line of defenders and 1/2 of the Middies behind the cage.  Other line of Attack and Middes at top of box.  Coach calls out two numbers.  First number is amount of defenders. Second number is Attack.  Defense needs to call out a shape. 12 == "Dot", 23 == "I", 34 == "Triangle", 45 == "Box".  Offense has 20 seconds to make a shot. Rotate.  Offensive players are *responsible* for calling out deficiencies with defense positions.  
