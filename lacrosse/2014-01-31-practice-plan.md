@@ -7,15 +7,24 @@ title: Practice Plan
 | :---: | --- |
 | 00 | Wildcat Warmup |
 | 10 | 3 Person Line Drill |
-| 20 | 40YD Pass on the Run |
-| 25 | 2 vs. 1 Ground Ball Drill (2 groups)|
-| 35 | Water |
-| 40 | 3 vs. 2 Ground Ball Drill w/ Shooting|
-| 55 | 4 vs. 3 Box Drill |
-| 70 | Dodge and Shoot on Cage |
-| 85 | Water |
-| 90 | ??? Drill |
+| 20 | Triangle Passing Drill |
+| 30 | 2 vs. 1 Ground Ball Drill (2 groups)|
+| 40 | Water |
+| 45 | 3 vs. 2 Ground Ball Drill w/ Shooting|
+| 60 | Star Passing Drill |
+| 75 | Dodge and Shoot on Cage |
+| 90 | Water |
+| 95 | 4 vs. 3 Box Drill |
 | 110 | Talk, Shag, Cage |
+
+
+### Star Passing Drill
+
+[http://www.youtube.com/watch?v=EbFMdS1JRmU](http://www.youtube.com/watch?v=EbFMdS1JRmU)
+
+<div style="max-width:480px;">
+  <iframe width="480" height="270" src="//www.youtube.com/embed/EbFMdS1JRmU?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### Dodge and Shoot on Cage
 
