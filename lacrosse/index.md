@@ -3,6 +3,7 @@ layout: page
 title: "Lacrosse Practice Plans"
 ---
 
+* [Monday February 10th](/lacrosse/2014-02-10-practice-plan.html)
 * [Wednesday February 5th](/lacrosse/2014-02-05-practice-plan.html)
 * [Monday February 3rd](/lacrosse/2014-02-03-practice-plan.html)
 * [Friday January 31st](/lacrosse/2014-01-31-practice-plan.html)
