@@ -3,6 +3,10 @@ layout: page
 title: "Lacrosse Practice Plans"
 ---
 
+### [Winter Break Challenge](/lacrosse/winter-break.html)
+
+### Plans:
+
 * [Wednesday February 12th](/lacrosse/2014-02-12-practice-plan.html)
 * [Monday February 10th](/lacrosse/2014-02-10-practice-plan.html)
 * [Wednesday February 5th](/lacrosse/2014-02-05-practice-plan.html)
