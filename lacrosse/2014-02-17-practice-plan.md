@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Practice Plan
+title: Winter Break Challenge
 ---
 
 | Time | Drill |
