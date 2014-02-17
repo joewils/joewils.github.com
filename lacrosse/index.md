@@ -7,6 +7,7 @@ title: "Lacrosse Practice Plans"
 
 ### Plans:
 
+* [Monday February 17th (Winter Break Challenge)](/lacrosse/2014-02-17-practice-plan.html)
 * [Wednesday February 12th](/lacrosse/2014-02-12-practice-plan.html)
 * [Monday February 10th](/lacrosse/2014-02-10-practice-plan.html)
 * [Wednesday February 5th](/lacrosse/2014-02-05-practice-plan.html)
