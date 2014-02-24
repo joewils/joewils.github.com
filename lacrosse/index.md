@@ -3,6 +3,7 @@ layout: page
 title: "Lacrosse Practice Plans"
 ---
 
+* [Saturday March 8th Game Plan](/lacrosse/2014-03-08-game-plan.html)
 * [Monday February 24th (March 8th Game Prep)](/lacrosse/2014-02-24-practice-plan.html)
 * [Wednesday February 19th (Winter Break Scrimmage)](/lacrosse/2014-02-19-practice-plan.html)
 * [Monday February 17th (Winter Break Challenge)](/lacrosse/2014-02-17-practice-plan.html)
