@@ -72,5 +72,3 @@ title: Practice Plan - March 8th Game Prep
 * 15YD Karaoke (x2)
 * 15YD Shuffle (x2)
 * 15YD 3/4 Speed Sprints (x2)
-
-> [We're stuck in a nasty position, why don't you take a short intermission?](http://www.songlyrics.com/monty-python/run-away!-lyrics/)
