@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lacrosse Practice Plans"
+title: "Lacrosse"
 ---
 
 * [Saturday March 8th Game Plan](/lacrosse/2014-03-08-game-plan.html)

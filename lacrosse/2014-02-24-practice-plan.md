@@ -12,8 +12,9 @@ title: Practice Plan - March 8th Game Prep
 | 35 | Water |
 | 40 | LAX IQ: Alley Clear |
 | 50 | Alley Clear Drill |
-| 60 | LAX IQ: Motion Offense 2-3-1 | 
-| 70 | Motion Offense Passing Drill "MOP"| 
+| 60 | LAX IQ: X
+| 65 | 4 vs. 3 Unsettled Attack | 
+| 75 | 6 vs. 4 Unsettled Attack | 
 | 85 | Talk, Shag, Cage | 
 
 
@@ -37,30 +38,28 @@ title: Practice Plan - March 8th Game Prep
 * Two attack men line up on side favoring ball, one near center field, one near GLE
 * Point attack lines up on opposing alley from other attack men
 
-### Alley Clear Drill
+### LAX IQ: X
 
-* WE WILL NOT GIVE UP THE BALL IN THE MIDDLE OF THE FIELD!
-* Bucket of balls in cage with goalie
-* Start 3 middies and 3 defenders from a settled defensive positions (blue cones)
-* Goalie yells clear
-* All players sprint to clear positions (yellow cones)
-* Goalie throws to Defender GLE
-* GLE throws to Middie
-* Rotate Middie line, repeat
+* Control the game
+* Win possession on missed shots
+* Occupy defender
 
-### LAX IQ: Motion Offense 2-3-1 
+### 4 vs. 3 Unsettled Attack
 
-* Introduce "gears" concept
-* When ball moves from the top gear to the lower gear it "forces" a rotation
-* Look for the cutter
-* Introduce "Run Away" concept (if the pass isn't there, run towards the alley and pull the defender out)
+* 10 Seconds to shoot or pass through X
+* Dropped or errant pass; play is dead, defense wins
+* 3 Defenders w/ Goalie
+* 3 Attackers Setup in Triangle
+* 1 Middie Top Right or Top Left
 
-### Motion Offense Passing Drill "MOP"
+### 6 vs. 4 Unsettled Attack
 
-* Attack triangle with point at X
-* Middie triangle with point at crease
-* Middies push/pull/pass on top triangle
-* Attack push/pull/pass on bottom triangle
+* 10 Seconds to shoot or pass through X
+* Dropped or errant pass; play is dead, defense wins
+* 3 Defenders w/ Goalie
+* 3 Attackers Setup in Triangle
+* 1 Middie Top Right or Top Left
+* 1 Middie Top Center
 
 ### Wildcat Warmup
 
