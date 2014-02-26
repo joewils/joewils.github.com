@@ -7,14 +7,11 @@ title: Practice Plan - March 8th Game Prep
 | :---: | --- |
 | 00 | Wildcat Warmup |
 | 10 | Star Passing Drill |
-| 25 | Vandal |
-| 30 | Assign Positions (Attack, Midfielders, Defense) |
-| 35 | Water |
-| 40 | LAX IQ: Alley Clear |
-| 50 | Alley Clear Drill |
-| 60 | LAX IQ: X
-| 65 | 4 vs. 3 Unsettled Attack | 
-| 75 | 6 vs. 4 Unsettled Attack | 
+| 25 | Assign Positions (Attack, Midfielders, Defense) |
+| 35 | LAX IQ: Alley Clear |
+| 40 | Alley Clear Drill |
+| 50 | LAX IQ: X
+| 55 | 4 vs. 3 Unsettled Attack | 
 | 85 | Talk, Shag, Cage | 
 
 
@@ -51,15 +48,6 @@ title: Practice Plan - March 8th Game Prep
 * 3 Defenders w/ Goalie
 * 3 Attackers Setup in Triangle
 * 1 Middie Top Right or Top Left
-
-### 6 vs. 4 Unsettled Attack
-
-* 10 Seconds to shoot or pass through X
-* Dropped or errant pass; play is dead, defense wins
-* 3 Defenders w/ Goalie
-* 3 Attackers Setup in Triangle
-* 1 Middie Top Right or Top Left
-* 1 Middie Top Center
 
 ### Wildcat Warmup
 
