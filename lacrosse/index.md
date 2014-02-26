@@ -4,7 +4,8 @@ title: "Lacrosse"
 ---
 
 * [Saturday March 8th Game Plan](/lacrosse/2014-03-08-game-plan.html)
-* [Monday February 24th (March 8th Game Prep)](/lacrosse/2014-02-24-practice-plan.html)
+* [Wednesday February 26th](/lacrosse/2014-02-26-practice-plan.html)
+* [Monday February 24th](/lacrosse/2014-02-24-practice-plan.html)
 * [Wednesday February 19th (Winter Break Scrimmage)](/lacrosse/2014-02-19-practice-plan.html)
 * [Monday February 17th (Winter Break Challenge)](/lacrosse/2014-02-17-practice-plan.html)
 * [Winter Break Challenge](/lacrosse/winter-break.html)
@@ -15,13 +16,3 @@ title: "Lacrosse"
 * [Friday January 31st](/lacrosse/2014-01-31-practice-plan.html)
 * [Wednesday January 29th](/lacrosse/2014-01-29-practice-plan.html)
 * [Monday January 27th](/lacrosse/2014-01-27-practice-plan.html)
-
-
-### Code Words
-
-* Vandal
-* Cardinal
-* Bronco
-* Cougar
-* Husky
-* Eagle
