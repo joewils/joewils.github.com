@@ -6,7 +6,7 @@ title: Practice Plan
 | Time | Drill |
 | :---: | --- |
 | 5:00 | Wildcat Warmup |
-| 5:05 | Star Ground Ball|
+| 5:05 | 3 Man Passing |
 | 5:15 | Star Passing |
 | 5:25 | 2 vs 1 Ground Ball |
 | 5:45 | Water |
