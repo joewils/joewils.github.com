@@ -8,7 +8,9 @@ categories:
 - finance
 ---
 
+<div style="width:90%;">
 {% gist 9536614 %}
+</div>
 
 Thanks [Matt](https://gist.github.com/mattgbrady/9536614).
 
