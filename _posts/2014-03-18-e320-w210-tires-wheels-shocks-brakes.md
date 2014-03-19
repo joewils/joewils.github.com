@@ -24,8 +24,10 @@ categories:
 
 ## Resources
 
-* [Shock Replacement](http://www.pelicanparts.com/techarticles/Mercedes-Benz/32-SUSPEN-Front_Shock_and_Spring_Replacement/32-SUSPEN-Front_Shock_and_Spring_Replacement.htm)
-* [Brake Replacement](http://www.youtube.com/playlist?list=PLm4UP1UrqHdlQECb9K5dONbQ_OMpwiLR2)
+* [Pelican Parts Shock Replacement](http://www.pelicanparts.com/techarticles/Mercedes-Benz/32-SUSPEN-Front_Shock_and_Spring_Replacement/32-SUSPEN-Front_Shock_and_Spring_Replacement.htm)
+* [YouTube Brake Replacement](http://www.youtube.com/playlist?list=PLm4UP1UrqHdlQECb9K5dONbQ_OMpwiLR2)
+* [BenzWorld Shock Replacement](http://www.benzworld.org/forums/w210-e-class/1198674-how-replace-w210-shocks-any-tips.html)
+* [BenzWorld Shock Replacement (PDF)](http://www.benzworld.org/forums/attachments/w210-e-class/251505d1248744455-how-replace-w210-shocks-any-tips-w210-shock-replace.pdf)
 
 ## Tools
 
