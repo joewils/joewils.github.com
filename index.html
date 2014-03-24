@@ -7,13 +7,12 @@ title: "JoeCode: Code with distinct characteristics traceable to its author."
     <time datetime="{{ site.time }}" id="top_time">{{ site.time | date_to_string }}</time>
 </header>
             
-<article id="5" class="post">
+<article class="post">
     <h2 class="entry-title">
         <a href="{{ page.url }}" rel="bookmark" title="Permalink to {{ post.title }}" class="title">
             {{ page.title }}
         </a>
     </h2>
-
 	<div class="entry-content">
         <blockquote>
           <p><strong>/joh&#8217; kohd&#8217;/ /n./</strong> 1. Code that is overly tense and unmaintainable. Perl may be a handy program, but if you look at the source, it's complete joe code. 2. Badly written, possibly buggy code. <strong>3. Code with distinct characteristics traceable to its author.</strong></p>
@@ -23,7 +22,13 @@ title: "JoeCode: Code with distinct characteristics traceable to its author."
 
         <p>Discover what is wrong with me at <a href="http://www.facebook.com/joewils">facebook</a>.</p>
     </div>
-    
 </article>
-				
 
+<article class="post">
+    <h2><a href="/noise/">Noise</a></h2>
+    <ul>
+        {% for post in site.posts limit:12 %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+</article>

@@ -15,3 +15,12 @@ layout: default
         {{ content }}
     </div>
 </article>
+
+<article class="post">
+    <h2><a href="/noise/">Latest Noise</a></h2>
+    <ul>
+        {% for post in site.posts limit:12 %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+</article>
