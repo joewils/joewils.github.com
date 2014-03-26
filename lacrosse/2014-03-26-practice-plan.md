@@ -13,9 +13,9 @@ title: Practice Plan
 | 5:45 | Water |
 | 5:50 | LAX IQ - Slide (D) |
 | 5:50 | LAX IQ - Two Triangles (A+M) |
-| 6:10 | Scrimmage 1 |
+| 6:10 | Scrimmage 1 (6 vs. 6) |
 | 6:30 | Water - Middies Swap Colors |
-| 6:35 | Scrimmage 2 | 
+| 6:35 | Scrimmage 2 (6 vs. 6) | 
 | 6:55 | Talk, Shag, Cage | 
 
 
@@ -31,6 +31,7 @@ title: Practice Plan
 * Players build large circle 
 * Start with one ball passing as relay
 * Add additional ball(s)
+* Add movement
 
 ### Four Corners
 
