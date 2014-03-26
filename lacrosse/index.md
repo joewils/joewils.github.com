@@ -14,12 +14,13 @@ title: "Lacrosse"
 
 ### Practice Plans
 
+* [Wednesday March 26th](/lacrosse/2014-03-26-practice-plan.html)
 * [Wednesday March 19th](/lacrosse/2014-03-19-practice-plan.html)
 * [Wednesday March 12th](/lacrosse/2014-03-12-practice-plan.html)
 * [Wednesday February 26th](/lacrosse/2014-02-26-practice-plan.html)
 * [Monday February 24th](/lacrosse/2014-02-24-practice-plan.html)
-* [Wednesday February 19th (Winter Break Scrimmage)](/lacrosse/2014-02-19-practice-plan.html)
-* [Monday February 17th (Winter Break Challenge)](/lacrosse/2014-02-17-practice-plan.html)
+* [Wednesday February 19th](/lacrosse/2014-02-19-practice-plan.html)
+* [Monday February 17th](/lacrosse/2014-02-17-practice-plan.html)
 * [Winter Break Challenge](/lacrosse/winter-break.html)
 * [Wednesday February 12th](/lacrosse/2014-02-12-practice-plan.html)
 * [Monday February 10th](/lacrosse/2014-02-10-practice-plan.html)
