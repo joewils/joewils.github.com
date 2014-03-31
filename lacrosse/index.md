@@ -14,6 +14,7 @@ title: "Lacrosse"
 
 ### Practice Plans
 
+* [Monday March 31st](/lacrosse/2014-03-31-practice-plan.html)
 * [Wednesday March 26th](/lacrosse/2014-03-26-practice-plan.html)
 * [Wednesday March 19th](/lacrosse/2014-03-19-practice-plan.html)
 * [Wednesday March 12th](/lacrosse/2014-03-12-practice-plan.html)
