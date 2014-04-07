@@ -2,7 +2,7 @@
 layout: post
 title: WTF HTML and CSS?
 categories:
-- noise
+- bookmark
 - development
 - html
 - css

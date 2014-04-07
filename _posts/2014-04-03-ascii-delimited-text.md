@@ -2,7 +2,7 @@
 layout: post
 title: ASCII Delimited Text
 categories:
-- noise
+- bookmark
 - development
 - ascii
 ---

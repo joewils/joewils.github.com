@@ -2,7 +2,7 @@
 layout: post
 title: Clean Up Whiteboard Notes with ImageMagick
 categories:
-- noise
+- bookmark
 - development
 - imagemagick
 ---

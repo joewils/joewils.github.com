@@ -2,7 +2,7 @@
 layout: post
 title: StyleStats CSS Statistics
 categories:
-- noise
+- bookmark
 - development
 - css
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Mobile Device Prototypes Using CSS
 categories:
-- noise
+- bookmark
 - development
 - mobile
 ---
