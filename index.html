@@ -25,10 +25,11 @@ title: "JoeCode: Code with distinct characteristics traceable to its author."
 </article>
 
 <article class="post">
-    <h2><a href="/noise/">Noise</a></h2>
+    <h2><a href="/noise/">Latest Noise</a></h2>
     <ul>
         {% for post in site.posts limit:12 %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
+    <h3><em><a href="/archive/">All The Noise</a></em></h3>
 </article>
