@@ -6,8 +6,6 @@ categories:
 - development
 ---
 
-Discovered a new tool for capturing user interaction as an animated Gif.  
-
 ![Google JoeCode](/images/posts/google-joecode.gif)
 
 * [http://www.cockos.com/licecap/](http://www.cockos.com/licecap/)
