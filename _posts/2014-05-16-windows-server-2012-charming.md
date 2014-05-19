@@ -11,7 +11,7 @@ Today I learned that the damn side bar thingy in Windows 8 / Windows Server 2012
 
 If you've ever struggled for two minutes to get the damn thing to trigger when using RDP, you'll understand how "Charming" it really is.
 
-FYI, on a Mac keybord the "Command Key" is the equivalent to the "Windows Key"
+FYI, on a Mac keyboard the "Command Key" is the equivalent to the "Windows Key"
 
 * Windows Key + C - Opens Charms bar
 * Windows Key + D - Switch to desktop (from start screen)
