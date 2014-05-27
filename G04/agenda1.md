@@ -45,7 +45,9 @@ title: "Team Meeting Agenda"
 # Paperwork
 
 * [PCA Parent Pledge](/G04/PCAParentPledge.pdf)
-* Registration
+* SnVYSA Registration
 * Concussion Forms
+* Birth Certificates
+* US Soccer Registration
 * Etc...
 
