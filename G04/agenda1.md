@@ -29,11 +29,11 @@ title: "Team Meeting Agenda"
 
 # Logistics
 
-* Practice Schedule: TBD (m/w or t/th)
+* Practice Schedule: M/W 5:30PM - 7:00PM Lower Field
 * Game Schedule: TBD
 * Phone Lists: TBD
 * Email Lists: TBD
-* Equipment: Size 4 ball
+* Soccer Ball!
 
 # Volunteers
 
@@ -45,5 +45,7 @@ title: "Team Meeting Agenda"
 # Paperwork
 
 * [PCA Parent Pledge](/G04/PCAParentPledge.pdf)
-* etc...
+* Registration
+* Concussion Forms
+* Etc...
 
