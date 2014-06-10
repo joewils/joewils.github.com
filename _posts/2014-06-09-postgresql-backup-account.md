@@ -16,5 +16,5 @@ GRANT SELECT ON ALL SEQUENCES IN SCHEMA public TO backup_user;
 GRANT SELECT ON ALL TABLES IN SCHEMA public TO backup_user;
 ```
 
-* [Stack Overflow](http://stackoverflow.com/questions/13497352/error-permission-denied-for-relation-tablename-on-postgres-while-trying-a-selec)
-* [Jamie Curle ](http://jamie.curle.io/blog/creating-a-read-only-user-in-postgres/)
+* [http://stackoverflow.com/questions/13497352/](http://stackoverflow.com/questions/13497352/error-permission-denied-for-relation-tablename-on-postgres-while-trying-a-selec)
+* [http://jamie.curle.io/blog/creating-a-read-only-user-in-postgres/](http://jamie.curle.io/blog/creating-a-read-only-user-in-postgres/)

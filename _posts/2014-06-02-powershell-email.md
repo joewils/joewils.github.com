@@ -7,4 +7,4 @@ categories:
 - windows
 ---
 
-[MSDN](http://msdn.microsoft.com/en-us/library/windows/desktop/hh849925.aspx)
+[http://msdn.microsoft.com/en-us/library/windows/desktop/hh849925.aspx](http://msdn.microsoft.com/en-us/library/windows/desktop/hh849925.aspx)

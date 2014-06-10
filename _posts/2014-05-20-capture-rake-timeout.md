@@ -15,6 +15,6 @@ rescue Timeout::Error => e
 end
 ```
 
-* [Stack Overflow Example](http://stackoverflow.com/questions/18473489/ruby-rake-task-api-timeout-error)
-* [Set Longer Timeout (HTTP)](http://userprimary.net/posts/2008/04/13/setting-a-longer-timeout-for-nethttp-requests-in-ruby/)
-* [Set Longer Timeout (Savon Global)](http://savonrb.com/version2/globals.html)
+* [http://stackoverflow.com/questions/18473489/](http://stackoverflow.com/questions/18473489/ruby-rake-task-api-timeout-error)
+* [http://userprimary.net/posts/2008/04/13/setting-a-longer-timeout-for-nethttp-requests-in-ruby/](http://userprimary.net/posts/2008/04/13/setting-a-longer-timeout-for-nethttp-requests-in-ruby/)
+* [http://savonrb.com/version2/globals.html](http://savonrb.com/version2/globals.html)
