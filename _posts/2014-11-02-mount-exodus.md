@@ -2,9 +2,8 @@
 layout: post
 title: "Movable Type to WordPress Web Application Utility"
 categories:
-- noise
-- wordpress
-- typepad
+- portfolio
+- application
 ---
 
 This happened over the weekend.  While working on a friends website over the summer I wrote a utility [class](https://github.com/joewils/ruby-mtexport/blob/master/mt_to_wordpress.rb) in Ruby to convert 1700 TypePad posts to WordPress. 
