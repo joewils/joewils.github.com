@@ -8,7 +8,7 @@ categories:
 
 I've been working with Derek at [Decater Performance and Fitness](https://www.decaterfitness.com) to build a new website.  
 
-![DP](/images/posts/dp-hompage.png)
+![DP](/images/posts/dp-homepage.png)
 
 * [Decater Performance and Fitness](https://www.decaterfitness.com)
 * [WordPress](http://www.wordpress.org)
