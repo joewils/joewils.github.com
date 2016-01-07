@@ -7,9 +7,12 @@ categories:
 
 Why must authors use mis-leading visuals to highlight an otherwise excellent [http://www.vox.com/policy-and-politics/2015/12/4/9850572/gun-control-us-japan-switzerland-uk-canada](article) on a controversial topic.  Sigh...
 
-<div>
-  <script async src="//jsfiddle.net/99z70fga/1/embed/result/"></script>
-</div>
+My quick visualizations using the same data, but with the vertical axis scaled to match the information being reported.
 
-* [https://jsfiddle.net/99z70fga/1/](https://jsfiddle.net/99z70fga/1/)
-* [http://www.vox.com/policy-and-politics/2015/12/4/9850572/gun-control-us-japan-switzerland-uk-canada](http://www.vox.com/policy-and-politics/2015/12/4/9850572/gun-control-us-japan-switzerland-uk-canada)
+![Gun deaths per 100,000 people in the US and Japan in 2013](/images/posts/gun-deaths1.png)
+
+![Homicides by firearm per 1 million people](/images/posts/gun-deaths2.png)
+
+* [Gun deaths per 100,000 people in the US and Japan in 2013](https://jsfiddle.net/99z70fga/1/)
+* [Homicides by firearm per 1 million people](https://jsfiddle.net/ac2ccmb0/1/)
+* [How gun control works in America, compared with 4 other rich countries](http://www.vox.com/policy-and-politics/2015/12/4/9850572/gun-control-us-japan-switzerland-uk-canada)
