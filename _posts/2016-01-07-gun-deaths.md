@@ -5,7 +5,7 @@ categories:
 - noise
 ---
 
-Why must authors use mis-leading visuals to highlight an otherwise excellent [http://www.vox.com/policy-and-politics/2015/12/4/9850572/gun-control-us-japan-switzerland-uk-canada](article) on a controversial topic.  Sigh...
+Why must [authors](http://www.vox.com/authors/german-lopez) use mis-leading visuals to highlight an otherwise excellent [article](http://www.vox.com/policy-and-politics/2015/12/4/9850572/gun-control-us-japan-switzerland-uk-canada) on a controversial topic.  Sigh...
 
 My quick visualizations using the same data, but with the vertical axis scaled to match the information being reported.
 
