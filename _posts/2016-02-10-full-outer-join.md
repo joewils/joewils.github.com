@@ -5,7 +5,7 @@ categories:
 - TIL
 ---
 
-`sql
+`
 select a.*,b.* 
  from a full outer join b 
    on a.id1=b.id1 and a.id2=b.id2
