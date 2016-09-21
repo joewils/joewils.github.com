@@ -8,7 +8,7 @@ categories:
 
 The source/original image appears on the cover of the De Luxe edition of The Hobbit (1976)
 
-<div><img src="/images/posts/tolkein-hobbit-jacket-invert1.svg" width="1024px"/></div>
+<div style="max-width:1024px;"><img src="/images/posts/tolkein-hobbit-jacket-invert1.svg" width="1024px"/></div>
 
 ## words:
 
@@ -26,4 +26,4 @@ The source/original image appears on the cover of the De Luxe edition of The Hob
 
 ## embiggin':
 
-<div style="width:2048px;border:1px solid red;"><img src="/images/posts/tolkein-hobbit-jacket-invert1.svg" width="2048px"/></div>
+<div style="max-width:2048px;border:1px solid red;"><img src="/images/posts/tolkein-hobbit-jacket-invert1.svg" width="2048px"/></div>
