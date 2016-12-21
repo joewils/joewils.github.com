@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TIL Sørensen Dice Coefficient
+title: Sorensen Dice Coefficient Using Ruby
 categories:
 - til
 ---
