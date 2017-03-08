@@ -35,3 +35,10 @@ https://garagegymbook.com/order
 
 Instagram Location Search API
 https://www.instagram.com/developer/endpoints/locations/#get_locations_search
+
+Yoga
+https://www.youtube.com/watch?v=oBu-pQG6sTY
+https://gumroad.com/l/30DaysofYoga
+
+Inflatable Costumes
+https://www.bodysocks.net
