@@ -42,3 +42,19 @@ https://gumroad.com/l/30DaysofYoga
 
 Inflatable Costumes
 https://www.bodysocks.net
+
+Web Scraping
+http://sangaline.com/post/advanced-web-scraping-tutorial/
+https://proxymesh.com
+
+Programming Language Eigenvector
+https://erikbern.com/2017/03/15/the-eigenvector-of-why-we-moved-from-language-x-to-language-y.html
+
+Fantasy Football
+http://www.pointyball.com
+
+Job @ REI
+https://www.linkedin.com/jobs/view/295865520/
+https://www.linkedin.com/in/justin-walton-955bb641/
+
+

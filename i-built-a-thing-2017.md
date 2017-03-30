@@ -23,7 +23,6 @@ title: "I Built a Thing 2017"
 
 ## March: [Foxtrot India Sierra Hotel](http://www.foxtrotindiasierrahotel.com)
 
-* Work in Progress...
 * [Sinatra](http://www.sinatrarb.com)
 * [Ruby Rake](https://ruby.github.io/rake/)
 * [PostgreSQL](https://www.postgresql.org)
@@ -33,3 +32,5 @@ title: "I Built a Thing 2017"
 * [USGS API](https://waterservices.usgs.gov)
 * [Trail API](https://trailapi-trailapi.p.mashape.com)
 * [Active Campground API](http://api.amp.active.com)
+
+## April: [TBD](#)
