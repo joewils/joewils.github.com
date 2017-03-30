@@ -21,7 +21,7 @@ title: "I Built a Thing 2017"
 * [HTTParty](http://johnnunemaker.com/httparty/)
 * [YAML](http://yaml.org)
 
-## March: [Foxtrot India Sierra Hotel](http://www.foxtrotindiasierrahotel.com)
+## March: [Foxtrot India Sierra Hotel](http://foxtrotindiasierrahotel.com)
 
 * [Sinatra](http://www.sinatrarb.com)
 * [Ruby Rake](https://ruby.github.io/rake/)
