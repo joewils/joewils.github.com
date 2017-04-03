@@ -7,6 +7,8 @@ categories:
 
 ## I built a thing: [SnoRidge CrossFit Games Leaderboard](http://leaderboard.joecode.com)
 
+![Leaderboard](/images/posts/leaderboard-screenshot.png)
+
 ### Stack
 
 * [Sinatra](http://www.sinatrarb.com)
