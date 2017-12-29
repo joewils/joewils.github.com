@@ -1,5 +1,17 @@
 blog this
 
+TIL
+HOW TO KILL PG CONNECTIONS
+select pg_terminate_backend(pg_stat_activity.pid) from pg_stat_activity where usename='USERNAME' and pid <> pg_backend_pid();
+
+2017-12-07
+https://null-byte.wonderhowto.com/how-to/mr-robot-hacks/
+https://cecilialee.github.io/blog/2017/12/05/intro-to-r-programming.html
+https://pgexercises.com
+
+2017-11-29
+https://aws.amazon.com/comprehend/
+https://blog.theodo.fr/2017/12/improve-website-security-5-minutes-http-headers/
 
 2017-09-21
 Stock Photography, FREE
@@ -71,10 +83,6 @@ http://deanandrews.uk/get-yoast-seo-data/
 photo stuff
 https://photojojo.com/awesomeness/smoovie-video-stabilizer
 
-2017-07-21
-icons and graphics
-http://www.graphicscoffee.com/
-
 sex tracker / cock ring
 https://www.ourlovely.com
 
@@ -137,6 +145,7 @@ http://optimal.com/network-ad-blocking-beta/#iphone
 https://gaps.com
 
 https://www.skytorrents.in
+
 
 
 Neat Business'
