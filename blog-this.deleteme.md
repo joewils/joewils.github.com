@@ -1,5 +1,20 @@
 blog this
 
+Javascript EXIF data lib
+https://github.com/exif-js/exif-js
+
+
+Rotate Canvas
+https://stackoverflow.com/questions/26768866/image-rotate-resize-canvas-based-on-image-height-and-width
+http://jsfiddle.net/AbdiasSoftware/6ZsCz/1135/
+
+
+Install Chrome command line
+https://www.linuxbabe.com/ubuntu/install-google-chrome-ubuntu-16-04-lts
+
+LDAP Apache
+http://fm4dd.com/security/apache-ldap-active-directory.htm
+
 TIL
 HOW TO KILL PG CONNECTIONS
 select pg_terminate_backend(pg_stat_activity.pid) from pg_stat_activity where usename='USERNAME' and pid <> pg_backend_pid();
