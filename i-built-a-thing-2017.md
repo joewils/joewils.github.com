@@ -5,6 +5,8 @@ title: "I Built a Thing 2017"
 
 ## January: [Riverlot Fitness News](http://www.riverlot.com)
 
+_retired May 2017_
+
 * [Lamernews](https://github.com/antirez/lamernews)
 * [Ruby Rake](https://ruby.github.io/rake/)
 * [Heroku](https://heroku.com)
@@ -32,5 +34,3 @@ title: "I Built a Thing 2017"
 * [USGS API](https://waterservices.usgs.gov)
 * [Trail API](https://trailapi-trailapi.p.mashape.com)
 * [Active Campground API](http://api.amp.active.com)
-
-## April: [TBD](#)
