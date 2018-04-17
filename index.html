@@ -5,7 +5,7 @@ title: JoeCode
 
 <div class="row">
   <div class="col-lg-6">      
-    <h3>About</h3>
+    <h3 class="page-title">About</h3>
 
     <p>Joe Wilson: data janitor, soccer coach, and the world's OKest <a href="https://games.crossfit.com/athlete/522199">CrossFit&trade; athlete</a>.</p>
 
@@ -20,22 +20,39 @@ title: JoeCode
     <p>You can learn more about my work experience by visiting my <a href="http://www.linkedin.com/in/joewils">LinkedIn</a> profile.</p>
   </div>
   <div class="col-lg-6">
-    <h3>Consulting</h3>
+    <h3 class="page-title">Consulting</h3>
 
     <p>Occasionally I take on a consulting project for <em>fun and profit</em>. You can kickstart the process by hitting my cell (208)&nbsp;651-3125 or sending an email (<a href="mailto:joe@joecode.com">joe@joecode.com</a>). </p>
     <p><strong>$142/hour</strong>. Let's chat, chances are I've already solved the problem you're facing.</p>
 
-    <h3>Availability<em>[limited]</em></h3>
+    <h3 class="page-title">Availability<em>[limited]</em></h3>
 
     <p>I'm currently employed fulltime at <a href="http://verusinvestments.com">Verus</a> as the Director of Development building web based risk, performance, and financial analysis applications using Ruby, Sinatra, Rake, Jekyll, Liquid, SOAP/XML, and PostgreSQL.</p>
 
-    <h3>Services</em></h3>
+    <h3 class="page-title">Services</em></h3>
 
     <p>If you have an idea for a unique web application chances are I can build it using <a href="http://www.sinatrarb.com">Ruby/Sinatra</a>. If you need a website, I'll get you setup on <a href="http://jekyllrb.com">Jekyll</a>.  If you force my hand I'll deploy <a href="http://www.wordpress.org">WordPress</a> for you.</p>
   </div>
 </div>
 
 
+<h2 class="page-title" style="margin-top:30px;"><a href="/noise/">Noise</a></h2>
+<div class="row row-cards row-deck">
+  {% for post in site.posts limit:3 %}
+    <div class="col-lg-4">
+      <div class="card">
+        <div class="card-body d-flex flex-column">
+          <a href="{{ post.source }}" target="_new"><img class="card-img-top" src="{{ site.baseurl }}/{{ post.screenshot }}" alt="screenshot"></a>
+          <h4 class="text-primary"><a href="{{ post.source }}" target="_new">{{ post.source }}</a></h4>
+          <div class="text-muted">{{ post.title }}</div>
+          <div class="d-flex align-items-center pt-5 mt-auto">
+            <div>{{ post.date | date: "%B %e, %Y" }}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
 
 
 
