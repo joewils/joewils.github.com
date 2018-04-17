@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: nil
 title: "I Built a Thing 2017"
 ---
 

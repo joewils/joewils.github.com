@@ -1,28 +1,17 @@
 ---
-layout: default
+layout: tabler
 ---
-<header id="begin">
-    <time datetime="{{ page.date }}" id="top_time">{{ page.date | date_to_string }}</time>
-</header>
-            
-<article class="post">
-    <h2 class="entry-title">
-        <a href="{{ page.url }}" rel="bookmark" title="Permalink to {{ post.title }}" class="title">
-            {{ page.title }}
-        </a>
-    </h2>
-	<div class="entry-content">
-        {{ content }}
-    </div>
-</article>
 
 <article class="post">
-    <h2><a href="/noise/">Latest Noise</a></h2>
-    <ul>
-        {% for post in site.posts limit:12 %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-    </ul>
-    <h3><em><a href="/archive/">All The Noise</a></em></h3>
-</article>
+  <h1>{{ page.title }}</h1>
 
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+  </div>
+
+  {% include disqus.html %}
+</article>

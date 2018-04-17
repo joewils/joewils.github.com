@@ -3,6 +3,8 @@ layout: page
 title: "Joe Wilson's Resume"
 ---
 
+<p>Visit my <a href="http://www.linkedin.com/in/joewils">LinkedIn</a> profile to learn more about my work experience.</p>
+
 > Sorry folks parks closed
 
 <div>

@@ -1,4 +1,7 @@
-NSFW
+---
+layout: nil
+title: NSFW
+---
 
 [sex tracker / cock ring](https://www.ourlovely.com)
 

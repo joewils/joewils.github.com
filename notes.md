@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: nil
 title: "Nothing To See Here"
 ---
 

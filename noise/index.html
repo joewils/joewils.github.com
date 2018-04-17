@@ -1,41 +1,129 @@
 ---
-layout: default
-title: "JoeCode: Code with distinct characteristics traceable to its author."
+layout: tabler
+title: "Noise"
 ---  
-<header id="begin">
-    <time datetime="{{ site.time }}" id="top_time">{{ site.time | date_to_string }}</time>
-</header>
-{% for post in paginator.posts %}
-    <article class="post">
-        <h2 class="entry-title">
-            <a href="{{ post.url }}" rel="bookmark" title="Permalink to {{ post.title }}" class="title">
-                {{ post.title }}
-            </a>
-        </h2>
-        <abbr class="published" title="{{ post.date | date_to_string }}">
-            {{ post.date | date_to_string }}
-        </abbr>
-        <div class="entry-content">
-            {{ post.content }}
-        </div>
-    </article>
-{% endfor %}  
 
-    
-<div id="post-pagination" class="pagination">
-  {% if paginator.previous_page %}
-  <span class="previous">
-    {% if paginator.previous_page == 1 %}
-    <a href="/noise/">Previous</a> 
-    {% else %}
-    <a href="/noise/{{paginator.previous_page}}">Previous</a> 
-    {% endif %}
-  </span>
-  {% endif %}
-
-  {% if paginator.next_page %}
-  <span class="next">
-    <a href="/noise/{{paginator.next_page}}">Next</a>
-  </span>
-  {% endif %}
+<div class="float-right">
+  Page {{paginator.page}} of {{paginator.total_pages}}
 </div>
+
+<nav>
+  <ul class="pagination">
+    {% if paginator.previous_page %}
+      {% if paginator.previous_page == 1 %}
+        <li class="page-item "><a href="/noise/" class="page-link">&larr; Previous</a></li>
+        <li class="page-item"><a href="/noise/" class="page-link">1</a></li>
+      {% else %}
+        <li class="page-item "><a href="/noise/{{paginator.previous_page}}" class="page-link">&larr; Previous</a></li>
+        <li class="page-item"><a href="/noise/{{paginator.previous_page}}" class="page-link">{{paginator.previous_page}}</a></li>
+      {% endif %}
+    {% endif %}
+    <li class="page-item active">
+      <a class="page-link" href="/noise/{{paginator.page}}">{{paginator.page}}</a>
+    </li>
+    {% if paginator.next_page %}
+      <li class="page-item"><a href="/noise/{{paginator.next_page}}" class="page-link">{{paginator.next_page}}</a></li>
+      <li class="page-item">
+        <a href="/noise/{{paginator.next_page}}" class="page-link">Next &rarr;</a>
+      </li>
+    {% endif %}
+  </ul>
+</nav>
+
+{% if paginator.page == 1 %}
+  <div class="row row-cards row-deck">
+    {% for post in site.posts limit:4 %}
+      <div class="col-sm-6 col-xl-3">
+        <div class="card">
+          <a href="{{ post.source }}" target="_new"><img class="card-img-top" src="{{ site.baseurl }}/{{ post.screenshot }}" alt="screenshot"></a>
+          <div class="card-body d-flex flex-column">
+            <h4 class="text-primary"><a href="{{ post.source }}" target="_new">{{ post.source }}</a></h4>
+            <div class="text-muted">{{ post.title }}</div>
+            <div class="d-flex align-items-center pt-5 mt-auto">
+              <div>{{ post.date | date: "%B %e, %Y" }}</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+    {% for post in site.posts limit:3 offset:4%}
+      <div class="col-lg-4">
+        <div class="card">
+          <div class="card-body d-flex flex-column">
+            <a href="{{ post.source }}" target="_new"><img class="card-img-top" src="{{ site.baseurl }}/{{ post.screenshot }}" alt="screenshot"></a>
+            <h4 class="text-primary"><a href="{{ post.source }}" target="_new">{{ post.source }}</a></h4>
+            <div class="text-muted">{{ post.title }}</div>
+            <div class="d-flex align-items-center pt-5 mt-auto">
+              <div>{{ post.date | date: "%B %e, %Y" }}</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+    {% for post in site.posts limit:4 offset:7 %}
+      <div class="col-lg-6">
+        <div class="card card-aside">
+          <a href="{{ post.source }}" class="card-aside-column" style="background-image: url({{ site.baseurl }}/{{ post.screenshot }})" target="_new"></a>
+          <div class="card-body d-flex flex-column">
+            <p style="font-weight:bold;"><a href="{{ post.source }}" target="_new">{{ post.source }}</a></p>
+            <div class="text-muted">{{ post.title }}</div>
+            <div class="d-flex align-items-center pt-5 mt-auto">
+              <div>{{ post.date | date: "%B %e, %Y" }}</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+{% else %}
+  <div class="row row-cards row-deck">
+    {% for post in paginator.posts %}
+      <div class="col-lg-4 foo-col-sm-6 foo-col-xl-3">
+        <div class="card">
+          {% if post.screenshot %}
+            <a href="{{ post.source }}" target="_new"><img class="card-img-top" src="{{ site.baseurl }}/{{ post.screenshot }}" alt="screenshot"></a>
+          {% else %}
+            <a href="{{ post.source }}" target="_new"><img class="card-img-top" src="{{ site.baseurl }}/images/null-screenshot.jpg" alt="screenshot"></a>
+          {% endif %}
+          <div class="card-body d-flex flex-column">
+            <h4 class="text-primary"><a href="{{ post.source }}" target="_new">{{ post.source }}</a></h4>
+            <div class="text-muted">{{ post.title }}</div>
+            <div>{{ post.excerpt }}</div>
+            <div class="d-flex align-items-center pt-5 mt-auto">
+              <div>{{ post.date | date: "%B %e, %Y" }}</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+{% endif %}
+
+
+<div class="float-right">
+  Page {{paginator.page}} of {{paginator.total_pages}}
+</div>
+
+<nav>
+  <ul class="pagination">
+    {% if paginator.previous_page %}
+      <li class="page-item ">
+        {% if paginator.previous_page == 1 %}
+          <a href="/noise/" class="page-link">&larr; Previous</a> 
+        {% else %}
+          <a href="/noise/{{paginator.previous_page}}" class="page-link">&larr; Previous</a> 
+        {% endif %}
+      </li>
+      <li class="page-item"><a href="/noise/{{paginator.previous_page}}" class="page-link">{{paginator.previous_page}}</a></li>
+    {% endif %}
+    <li class="page-item active">
+      <a class="page-link" href="/noise/{{paginator.page}}">{{paginator.page}}</a>
+    </li>
+    {% if paginator.next_page %}
+      <li class="page-item"><a href="/noise/{{paginator.next_page}}" class="page-link">{{paginator.next_page}}</a></li>
+      <li class="page-item">
+        <a href="/noise/{{paginator.next_page}}" class="page-link">Next &rarr;</a>
+      </li>
+    {% endif %}
+  </ul>
+</nav>
