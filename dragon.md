@@ -1,5 +1,5 @@
 ---
-layout: naked
+layout: nil
 title: "Coiled Dragon"
 ---
 
