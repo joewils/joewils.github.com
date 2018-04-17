@@ -1,11 +1,7 @@
 ---
-layout: post
-title: "Global State Good, Local State Bad"
-categories:
-- bookmark
-- programming
+layout: link
+title: "Local State is Poison | Awelon Blue"
+source: 'http://awelonblue.wordpress.com/2012/10/21/local-state-is-poison/'
+screenshot: 'screenshots/824133e1-5cdd-4399-93f6-7120b3a15baf.jpg'
 ---
 
-> My mind had been poisoned, probably by Object Oriented Programming.
-
-Mine too.  [http://awelonblue.wordpress.com/2012/10/21/local-state-is-poison/](http://awelonblue.wordpress.com/2012/10/21/local-state-is-poison/)

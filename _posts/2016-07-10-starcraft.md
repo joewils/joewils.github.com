@@ -1,9 +1,7 @@
 ---
-layout: post
-title: HTML5 Starcraft
-categories:
-- html
+layout: link
+title: "StarCraft"
+source: 'http://www.nvhae.com/starcraft/'
+screenshot: 'screenshots/1ac1e9e2-5dfa-4d87-97a5-b30519989f28.jpg'
 ---
 
-* [https://github.com/gloomyson/SC_Js](https://github.com/gloomyson/SC_Js)
-* [http://www.nvhae.com/starcraft/](http://www.nvhae.com/starcraft/)

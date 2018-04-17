@@ -1,12 +1,7 @@
 ---
-layout: post
+layout: link
 title: "Awful Recruiters"
-categories:
-- bookmark
-tags:
-- recruiters
+source: 'http://awfulrecruiters.com/'
+screenshot: 'screenshots/d5e6bcd8-6f11-4f02-b615-58d590120230.jpg'
 ---
-A list of recruiter domains.  Use this to filter out unsolicited email:
-* [http://awfulrecruiters.com/](http://awfulrecruiters.com/)
-* [https://github.com/soffes/awfulrecruiters.com](https://github.com/soffes/awfulrecruiters.com)
-* [https://github.com/joewils/awfulrecruiters.com](https://github.com/joewils/awfulrecruiters.com)
+

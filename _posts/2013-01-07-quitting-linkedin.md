@@ -1,12 +1,7 @@
 ---
-layout: post
+layout: link
 title: "Quitting LinkedIn"
-categories:
-- bookmark
-tags:
-- linkedin
+source: 'http://blog.capwatkins.com/quitting-linkedin'
+screenshot: 'screenshots/e332a9c8-ff27-4882-8f58-e88d944f68d8.jpg'
 ---
 
-> Getting a message from someone on LinkedIn meant that you were pretty closely connected to each other. It was personal. Useful. Then they sold all of that to the recruiters.
-
-[http://blog.capwatkins.com/quitting-linkedin](http://blog.capwatkins.com/quitting-linkedin)

@@ -1,11 +1,7 @@
 ---
-layout: post
+layout: link
 title: "Native Form Elements"
-categories:
-- bookmark
-tags:
-- development
-- html
+source: 'http://nativeformelements.com/'
+screenshot: 'screenshots/392df477-dc73-4805-af89-ec4d58a6bdb1.jpg'
 ---
-> what every HTML5 form element looks like on your current operating system and browser
-[http://nativeformelements.com/](http://nativeformelements.com/)
+

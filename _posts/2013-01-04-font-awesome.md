@@ -1,11 +1,7 @@
 ---
-layout: post
+layout: link
 title: "Font Awesome"
-categories:
-- bookmark
-tags:
-- css
-- development
-- bootstrap
+source: 'http://fortawesome.github.com/Font-Awesome/'
+screenshot: 'screenshots/73c60cca-e31e-4f50-871b-e4ef3dc5cf40.jpg'
 ---
-The iconic font designed for use with Twitter Bootstrap: [http://fortawesome.github.com/Font-Awesome/](http://fortawesome.github.com/Font-Awesome/)
+
