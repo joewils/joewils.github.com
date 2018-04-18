@@ -3,6 +3,13 @@ layout: tabler
 title: "Noise"
 ---  
 
+
+{% if paginator.page == 1 %}
+  <blockquote>
+    I collect links to various bits of internet flotsam. The following is a collection of poorly currated link <em>noise</em>. Don't judge me. <em>~joe</em>
+  </blockquote>
+{% endif %}
+
 <div class="float-right">
   Page {{paginator.page}} of {{paginator.total_pages}}
 </div>
@@ -31,6 +38,7 @@ title: "Noise"
 </nav>
 
 {% if paginator.page == 1 %}
+
   <div class="row row-cards row-deck">
     {% for post in site.posts limit:4 %}
       <div class="col-sm-6 col-xl-3">
