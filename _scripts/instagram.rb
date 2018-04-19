@@ -113,7 +113,7 @@ def get_grams(gram)
               yml = "---\n";
               yml += "layout: link\n";
               yml += "title: \""+title+"\"\n"
-              yml += "source: '"+url+"'\n"
+              yml += "source: '"+source_url+"'\n"
               yml += "screenshot: 'instagram/th-"+gram['shortcode']+".jpg'\n"
               yml += "---\n\n";
               puts jekyll_filename
@@ -122,7 +122,7 @@ def get_grams(gram)
                 puts jekyll_filename
                 File.open('_posts/'+jekyll_filename, 'w') {|f| f.write yml }
               end
-              
+
             end
 
           end
