@@ -52,10 +52,6 @@ def get_grams(gram)
             graphql = json['entry_data']['ProfilePage'][0]['graphql']
             media = graphql['user']['edge_owner_to_timeline_media']
             graphql['user']['edge_owner_to_timeline_media'] = nil
-            puts graphql.to_yaml
-            puts "----------"
-            puts media['edges'][0].to_yaml
-            puts "----------"
 
             # Build List of Recent Instagram Images
             grams = []
@@ -116,8 +112,6 @@ def get_grams(gram)
               yml += "source: '"+source_url+"'\n"
               yml += "screenshot: 'instagram/th-"+gram['shortcode']+".jpg'\n"
               yml += "---\n\n";
-              puts jekyll_filename
-              puts yml
               if !File.exist? '_posts/'+jekyll_filename
                 puts jekyll_filename
                 File.open('_posts/'+jekyll_filename, 'w') {|f| f.write yml }
