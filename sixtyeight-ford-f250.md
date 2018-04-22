@@ -3,7 +3,11 @@ layout: tabler
 title: "68' Ford F250 Camper Special"
 ---
 
-## Power
+<div style="margin-bottom:32px;">
+  <img src="/images/68-ford-f250.jpg">
+</div>
+
+<h2>Build Sheet</h2>
 
 <table class="table table-bordered table-striped">
   <thead>
@@ -39,6 +43,14 @@ title: "68' Ford F250 Camper Special"
         </ul>
       </td>
       <td>$10,000</td>
+    </tr>
+    <tr>
+      <th>Exhaust</th>
+      <td>Kick-ass side pipes</td>
+      <td></td>
+      <td></td>
+      <td>Dual exhaust, rear exit</td>
+      <td>$750</td>
     </tr>
     <tr>
       <th>Brakes</th>
@@ -138,7 +150,7 @@ title: "68' Ford F250 Camper Special"
       <td></td>
       <td>$8625</td>
       <td></td>
-      <td>$32,000</td>
+      <td>$32,750</td>
     </tr>
   </tbody>
 </table>
