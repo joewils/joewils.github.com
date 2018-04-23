@@ -105,7 +105,7 @@ title: "68' Ford F250 Camper Special"
           <li>($300) Tow hitch</li>
           <li>($1750) "Rhino" spray in truck bed liner</li>
           <li>($2000) "Diamond Back" truck bed cover</li>
-          <li>($6000) professional body/paint "desert storm" brown w/ blacked out grill</li>
+          <li>($3000) professional body/paint "desert storm" brown w/ blacked out grill</li>
         </ul>
       </td>
       <td>$10,650</td>
@@ -150,7 +150,7 @@ title: "68' Ford F250 Camper Special"
       <td></td>
       <td>$8625</td>
       <td></td>
-      <td>$32,750</td>
+      <td>$29,750</td>
     </tr>
   </tbody>
 </table>
