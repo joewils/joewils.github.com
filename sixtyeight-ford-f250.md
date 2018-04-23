@@ -108,7 +108,7 @@ title: "68' Ford F250 Camper Special"
           <li>($3000) professional body/paint "desert storm" brown w/ blacked out grill</li>
         </ul>
       </td>
-      <td>$10,650</td>
+      <td>$7,650</td>
     </tr>
     <tr>
       <th>Upholstery</th>
