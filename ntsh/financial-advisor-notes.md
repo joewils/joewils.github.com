@@ -3,12 +3,11 @@ layout: tabler
 title: "Financial Advisor Setup"
 ---
 
-
 ## Website Design
   - ~$50 [Envato Market](https://themeforest.net/category/wordpress)
   - Pick one of these: [SytleMixThemes](http://consulting.stylemixthemes.com/landing/#)
   - Or browse hundreds of other business related themes
-  - I will help you apply the proper "Financial Advisor" information architecture to any theme you choose.
+  - We can apply the proper "Financial Advisor" information architecture most themes.
 
 ## Website Comparison
 
@@ -32,7 +31,6 @@ title: "Financial Advisor Setup"
   - $80/month
   - Reseller of FMGSuite
   - Fewer services vs. FMGSuite
-  - Propriety CMS
 
 ### Propriety CMS Concerns
 
