@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Joe Wilson"
+title: "Joe Wilson's Resume"
 ---
 Software development and information technology professional with twenty years of startup and enterprise experience.
 
@@ -33,12 +33,10 @@ Responsible for building websites at Microsoft, T-Mobile, Mastercard, Intel, Pre
 <http://ascentium.com>
 
 *   **Microsoft Office for Business Campaign:** My team and I delivered a highly interactive jQuery driven user experience to facilitate selling the benefits of Microsoft Office for medium to large business organizations. <http://www.microsoft.com/office/business/> 
-*   **Intel Software Partners Membership FAQ** Working on an aggressive time line I built and tested an advanced FAQ page with multiple views using jQuery and some URL trickery to enable deep linking to dynamic content. <http://software.intel.com/partner/> (must be a member to see page) 
-*   **Ascentium Jobvite Drupal Plug-in:** Working with some great coworkers we created a Drupal plug-in pull content from Jobvite via their documented API directly vs. manually copying the information saving our recruiters and marketing team valuable time and energy. <http://www.ascentium.com/content/careers> 
-*   **Intel Software Partners Home Page** I dove into an existing website under tight delivery constraints and added several pieces of jQuery powered flair to pump up user engagement with several pop ups, expanding sub menus, and tabbed navigational elements. <http://software.intel.com/partner/> 
-*   **Hit or Quit SXSW Mobile Web Application** I built and deployed an advanced web application using the jQTouch mobile development framework to showcase and highlight active events during the SXSW interactive conference. Features included session check-in via Foursquare, zoom-able maps of the convention centers, event voting (hit it or quit it), and relevent twitter noise per session. <http://goo.gl/xGrCM> 
-*   **T-Mobile Data Calculator:** I worked on version two of the jQuery powered data calculator. I added support for multiple page views, tightened up the mathematical formulas, and created a new framework for adding additional functionality. 
-*   **T-Mobile Data Plans:** Built new layout to focus on competitive new data plans and package information using HTML, CSS, and a splash of jQuery. <http://goo.gl/AckyG> 
+*   **Intel Software Partners Membership FAQ** Working on an aggressive time line I built and tested an advanced FAQ page with multiple views using jQuery and some URL trickery to enable deep linking to dynamic content. 
+*   **Intel Software Partners Home Page** I dove into an existing website under tight delivery constraints and added several pieces of jQuery powered flair to pump up user engagement with several pop ups, expanding sub menus, and tabbed navigational elements.
+*   **Hit or Quit SXSW Mobile Web Application** I built and deployed an advanced web application using the jQTouch mobile development framework to showcase and highlight active events during the SXSW interactive conference. Features included session check-in via Foursquare, zoom-able maps of the convention centers, event voting (hit it or quit it), and relevant twitter noise per session.
+*   **T-Mobile Data Plans:** Built new layout to focus on competitive new data plans and package information using HTML, CSS, and a splash of jQuery.
 *   **Precor Website Redesign:** Built a highly customized Drupal powered website complete with multiple language support, ecommerce, and content migration. <http://precor.com> 
 *   **AT&T My Mobility Toolkit:** I extended an existing Etomite powered marketing portal to include expanded authentication options: email validation, expired account notices, inactivity notices, and multiple login locations. I also supported the expansion of content to the mobile and desktop versions of the website. <http://mymobilitytoolkit.com> 
 *   **Microsoft Consumer Cloud:** Built down-level jQuery/HTML/CSS experience to match Silverlight campaign. 
@@ -53,14 +51,13 @@ Responsible for development, migration, and integration of hotel data systems fo
 *   **UK Hotel Expansion:** I worked with our UK based marketing department to build a UK centric sales portal for international customer acquisition. Built upon version 1.7 of the Code Igniter framework. 
 *   **Website Redesign:** I started out doing a bit of freelance work to extend their sales contact form which turned into a full blown redesign and revamp of an antiquated .Net 2.0 website presence. 
 
-
 #### Senior Integration Developer, Neokinetics Corporation -- Nov 2006 - May 2009
 
 Responsible for development and integration of proprietary user authentication and authorization behavior-metric security systems using PHP, Javascript, CSS, MySQL and Lighttpd. I also deployed and maintained Linux and OS X servers for development, email, backup, and file storage.  
 <http://neokinetics.com>
 
 *   **Ebay Behavior-metric Pilot:** I contributed to the building of a behavior-metric technology pilot program, delivered and assisted with the installation of the product on-site, and provided ongoing support for one of the largest user behavior tracking projects in order to improve buying and selling security. 
-*   **Rayetheon Behavior-metric Pilot:** I helped build out an advanced user-name and password based behavior-metric monitoring service for a classified pilot program run through our companies government sponsor Rayetheon. 
+*   **Rayetheon Behavior-metric Pilot:** I helped build out an advanced user-name and password based behavior-metric monitoring service for a classified pilot program run through our companies government sponsor Raytheon. 
 *   **Behavior-metric Demonstration Application:** I built and deployed a user-name and text field monitoring service complete with self registration so potential clients could explore the concepts and features of behavior-metric monitoring in order to harden existing authentication systems. 
 
 #### Director of Information Technology, Tahoma Capital -- Sept 2005 - Sept 2006
@@ -85,21 +82,6 @@ Responsible for migrating significant portions of Amazon.com's code base from a 
 *   **Holiday 2003 Code Controller:** I spent an entire holiday season evaluating code and business requirements in order to insure maximum uptime during the holiday shopping season. 
 *   **Search and Browse Redesign:** I spent my second year at Amazon working with the Search and Browse team improving the user experience developing and running numerous A/B tests in order to maximize how quickly we could get users to commit something to their cart. 
 *   **Detail Page:** My first year at Amazon was spent cleaning and tightening up the various iterations of all the product detail page templates powering a massive catalog of disparate information. 
-
-#### Web Developer, Medinex -- May 1999 - May 2000
-
-Responsible for user interface design and development of a web based HIPPA compliant medical office management application using JSP and DHTML technologies. I also represented the company at trade shows as a technical consultant including NetWorld Interop.  
-<http://medinex.com>
-
-*   **Practix:** I helped build the first application service provider ASP based online medical practice management application. 
-
-#### Web Developer, Netivation -- May 1998 - May 1999
-
-Responsible for design, development, and production of a daily political online news portal and 50,000 subscriber mailing list using Perl CGI on Linux systems.  
-<http://netivation.com>
-
-*   **CapitalWatch:** I built a Perl based CMS in order to automate the publication of one of the webs earliest political news zines. 
-*   **Votenet:** I built one of the first independent web portals to consume the newly released thomas.loc.gov information portal content. The portal would match users based on zip-code and address to their congressional reps and provide a daily snapshot of their votes and Hill activity. 
 
 ### Education
 

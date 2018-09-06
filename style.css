@@ -1,4 +1,29 @@
 body {
-  font-family: Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-family: monospace;
   font-size: 0.8375rem;
+}
+
+@media print {
+  body {
+    width:auto;
+    background: white;
+    font-size: 10pt;
+    font-family: sans-serif;
+  }
+  h1, h2, h3 {
+    font-size: 14pt;
+  }
+
+  h4 {
+    font-size: 12pt;
+  }
+  .container {
+    width:auto;
+  }
+  .header {
+    display:none;
+  }
+  .footer {
+    display:none;
+  }
 }
