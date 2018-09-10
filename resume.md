@@ -57,7 +57,7 @@ Responsible for development and integration of proprietary user authentication a
 <http://neokinetics.com>
 
 *   **Ebay Behavior-metric Pilot:** I contributed to the building of a behavior-metric technology pilot program, delivered and assisted with the installation of the product on-site, and provided ongoing support for one of the largest user behavior tracking projects in order to improve buying and selling security. 
-*   **Rayetheon Behavior-metric Pilot:** I helped build out an advanced user-name and password based behavior-metric monitoring service for a classified pilot program run through our companies government sponsor Raytheon. 
+*   **Raytheon Behavior-metric Pilot:** I helped build out an advanced user-name and password based behavior-metric monitoring service for a classified pilot program run through our companies government sponsor Raytheon. 
 *   **Behavior-metric Demonstration Application:** I built and deployed a user-name and text field monitoring service complete with self registration so potential clients could explore the concepts and features of behavior-metric monitoring in order to harden existing authentication systems. 
 
 #### Director of Information Technology, Tahoma Capital -- Sept 2005 - Sept 2006
