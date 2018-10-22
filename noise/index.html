@@ -43,7 +43,7 @@ title: "Noise"
     {% for post in site.posts limit:4 %}
       <div class="col-sm-6 col-xl-3">
         <div class="card">
-          <a href="{{ post.source }}" target="_new"><img class="card-img-top" src="{{ site.baseurl }}/{{ post.screenshot }}" alt="screenshot"></a>
+          <a href="{{ post.url }}"><img class="card-img-top" src="{{ site.baseurl }}/{{ post.screenshot }}" alt="screenshot"></a>
           <div class="card-body d-flex flex-column">
             <h4 class="text-primary"><a href="{{ post.source }}" target="_new">{{ post.source }}</a></h4>
             <div class="text-muted">{{ post.title }}</div>
@@ -58,7 +58,7 @@ title: "Noise"
       <div class="col-lg-4">
         <div class="card">
           <div class="card-body d-flex flex-column">
-            <a href="{{ post.source }}" target="_new"><img class="card-img-top" src="{{ site.baseurl }}/{{ post.screenshot }}" alt="screenshot"></a>
+            <a href="{{ post.url }}"><img class="card-img-top" src="{{ site.baseurl }}/{{ post.screenshot }}" alt="screenshot"></a>
             <h4 class="text-primary"><a href="{{ post.source }}" target="_new">{{ post.source }}</a></h4>
             <div class="text-muted">{{ post.title }}</div>
             <div class="d-flex align-items-center pt-5 mt-auto">
@@ -71,7 +71,7 @@ title: "Noise"
     {% for post in site.posts limit:4 offset:7 %}
       <div class="col-lg-6">
         <div class="card card-aside">
-          <a href="{{ post.source }}" class="card-aside-column" style="background-image: url({{ site.baseurl }}/{{ post.screenshot }})" target="_new"></a>
+          <a href="{{ post.url }}" class="card-aside-column" style="background-image: url({{ site.baseurl }}/{{ post.screenshot }})" target="_new"></a>
           <div class="card-body d-flex flex-column">
             <p style="font-weight:bold;"><a href="{{ post.source }}" target="_new">{{ post.source }}</a></p>
             <div class="text-muted">{{ post.title }}</div>
@@ -88,10 +88,10 @@ title: "Noise"
     {% for post in paginator.posts %}
       <div class="col-lg-4 foo-col-sm-6 foo-col-xl-3">
         <div class="card">
-          {% if post.screenshot %}
-            <a href="{{ post.source }}" target="_new"><img class="card-img-top" src="{{ site.baseurl }}/{{ post.screenshot }}" alt="screenshot"></a>
+          {% if post.screenshot and post.screenshot != '' %}
+            <a href="{{ post.url }}"><img class="card-img-top" src="{{ site.baseurl }}/{{ post.screenshot }}" alt="screenshot"></a>
           {% else %}
-            <a href="{{ post.source }}" target="_new"><img class="card-img-top" src="{{ site.baseurl }}/images/null-screenshot.jpg" alt="screenshot"></a>
+            <a href="{{ post.url }}"><img class="card-img-top" src="{{ site.baseurl }}/images/null-screenshot.jpg" alt="screenshot"></a>
           {% endif %}
           <div class="card-body d-flex flex-column">
             <h4 class="text-primary"><a href="{{ post.source }}" target="_new">{{ post.source }}</a></h4>
