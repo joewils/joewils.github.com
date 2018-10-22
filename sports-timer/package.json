@@ -17,6 +17,6 @@
   "author": "Mark Dawson",
   "license": "MIT",
   "dependencies": {
-    "serve": "^1.4.0"
+    "serve": ">=7.0.0"
   }
 }
