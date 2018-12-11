@@ -22,7 +22,7 @@ if ARGV[0] and ARGV[1]
   end
   puts title.gsub('"','')
   # 2. Generate Screenshot Using Chrome
-  call = '( /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --headless --disable-gpu --screenshot=_screenshots/'+guid+'.png --window-size=1280,1280 ' + url +  ' ) & sleep 10 ; kill $!'
+  call = '( /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --headless --disable-gpu --crash-dumps-dir=/tmp --screenshot=_screenshots/'+guid+'.png --window-size=1280,1280 ' + url +  ' ) & sleep 10 ; kill $!'
   puts call
   Open3.popen3(call) do |stdin, stdout, stderr, thread|
     begin
