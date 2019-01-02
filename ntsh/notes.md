@@ -28,3 +28,16 @@ https://sapa-project.org/survey/demographics.php
 
 ### Monitor Websites for Malware
 * [https://github.com/ciscocsirt/malspider](https://github.com/ciscocsirt/malspider)
+
+
+### Dating Website Data
+* [https://datadating.tacticaltech.org/viz](https://datadating.tacticaltech.org/viz)
+* [https://www.usdate.org](https://www.usdate.org)
+
+
+### Firearm Websites
+* [https://www.gunbroker.com/mysite/myaccount/tools/default.aspx](https://www.gunbroker.com/mysite/myaccount/tools/default.aspx)
+* [https://www.ironhorseoutfitters.com/ruger-mini-14-rnch-5-56-18-5-bl-5rd](https://www.ironhorseoutfitters.com/ruger-mini-14-rnch-5-56-18-5-bl-5rd)
+*[https://www.sitebiz.com/verticals/firearms](https://www.sitebiz.com/verticals/firearms)
+* [https://www.google.com/search?q=inurl:ruger-vaquero-45lc-5-5-bl-6rd&num=20&safe=strict&filter=0&biw=1440&bih=1098](https://www.google.com/search?q=inurl:ruger-vaquero-45lc-5-5-bl-6rd&num=20&safe=strict&filter=0&biw=1440&bih=1098)
+* [https://www.gunbroker.com/mysite/myaccount/tools/default.aspx](https://www.gunbroker.com/mysite/myaccount/tools/default.aspx)
