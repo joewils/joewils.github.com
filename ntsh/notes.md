@@ -41,3 +41,8 @@ https://sapa-project.org/survey/demographics.php
 *[https://www.sitebiz.com/verticals/firearms](https://www.sitebiz.com/verticals/firearms)
 * [https://www.google.com/search?q=inurl:ruger-vaquero-45lc-5-5-bl-6rd&num=20&safe=strict&filter=0&biw=1440&bih=1098](https://www.google.com/search?q=inurl:ruger-vaquero-45lc-5-5-bl-6rd&num=20&safe=strict&filter=0&biw=1440&bih=1098)
 * [https://www.gunbroker.com/mysite/myaccount/tools/default.aspx](https://www.gunbroker.com/mysite/myaccount/tools/default.aspx)
+
+### Text AI
+* https://www.spinrewriter.com/api
+* https://wordai.com/api.php
+* https://spinbot.com/API
