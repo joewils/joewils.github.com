@@ -46,3 +46,6 @@ https://sapa-project.org/survey/demographics.php
 * https://www.spinrewriter.com/api
 * https://wordai.com/api.php
 * https://spinbot.com/API
+
+### NewsAPI
+* https://newsapi.org/v2/everything?q=%22fly%20fishing%22&sortBy=relevence&apiKey=1234567
