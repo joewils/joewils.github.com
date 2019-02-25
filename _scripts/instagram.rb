@@ -56,13 +56,17 @@ def get_grams(gram)
             # Build List of Recent Instagram Images
             grams = []
             potatoes = media['edges']
-            potatoes.each do |node|
-              potatoe = node['node']
+            potatoes.each do |wtf|
+              potatoe = wtf['node']
               ig = {}
               ig['is_video'] = potatoe['is_video']
               if ig['is_video'] == false
                 ig['shortcode'] = potatoe['shortcode']
-                ig['caption'] = potatoe['edge_media_to_caption']['edges'][0]['node']['text']
+                if potatoe['edge_media_to_caption']['edges'].length > 0
+                  ig['caption'] = potatoe['edge_media_to_caption']['edges'][0]['node']['text']
+                else
+                  ig['caption'] = ''
+                end
                 ig['date'] = Time.at(potatoe['taken_at_timestamp']).to_date.to_s
                 ig['source_image'] = potatoe['display_url']
               end
@@ -99,6 +103,7 @@ def get_grams(gram)
               end
 
               # Clean up title
+              
               title = gram['caption'].encode("ASCII", invalid: :replace, undef: :replace, replace: '').gsub("\n",' ').strip
               source_url = 'https://www.instagram.com/p/'+gram['shortcode']+'/'
 
