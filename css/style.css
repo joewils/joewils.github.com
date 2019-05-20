@@ -74,3 +74,14 @@
     #post-pagination .next {
         float:right;
     }
+
+@media print { 
+  .header {
+    border 1px solid magenta;
+  }
+}
+
+
+.header {
+  border 1px solid magenta;
+}

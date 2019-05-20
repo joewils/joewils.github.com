@@ -21,9 +21,12 @@ body {
     width:auto;
   }
   .header {
-    display:none;
+    display:none !important;
+  }
+  #headerMenuCollapse {
+    display:none !important;
   }
   .footer {
-    display:none;
+    display:none !important;
   }
 }
