@@ -18,7 +18,9 @@ Bitnami WordPress on LightSail
 * https://docs.bitnami.com/aws/apps/wordpress/
 
 Bitnami Lets Encrypt Setup
-https://docs.bitnami.com/aws/how-to/generate-install-lets-encrypt-ssl/
+
+* Renew: sudo /etc/lego/renew-certificate.sh
+* https://docs.bitnami.com/aws/how-to/generate-install-lets-encrypt-ssl/#alternative-approach
 
 Amazon SES
 https://metablogue.com/email-aws-lightsail-wordpress/
