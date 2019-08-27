@@ -1,8 +1,12 @@
 ---
 layout: nil
+published: false
+hidden: true
 ---
 
 LightSail
+
+A Record: 54.202.58.1
 
 (Cohalo)
 * ssh -i LightsailDefaultPrivateKeyUSWest.pem bitnami@54.202.58.1
@@ -38,3 +42,31 @@ https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-linux.html
 
 vulnerability scanning
 https://github.com/wpscanteam/wpscan
+
+
+
+WPROOT: /home/bitnami/apps/wordpress/htdocs
+tar -czf wordpress.tar.gz /home/bitnami/apps/wordpress/htdocs
+
+
+
+----------
+NearlyFreeSpeech.net
+----------
+
+SSH: ssh joewils_cohalo@ssh.phx.nearlyfreespeech.net
+
+Fix File Permissions
+sudo find . -type f -exec chmod 664 {} +
+sudo find . -type d -exec chmod 775 {} +
+
+Update tmp file location
+define('WP_TEMP_DIR', '/home/tmp/');
+
+A Record: 208.94.117.181
+
+Fix Path: 
+echo 'PATH=~/.local/bin:$PATH' >> ~/.profile
+
+Backup Shell Script
+/home/private//.local/bin/backup.sh
