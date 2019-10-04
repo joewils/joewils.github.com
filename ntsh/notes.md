@@ -29,11 +29,9 @@ https://sapa-project.org/survey/demographics.php
 ### Monitor Websites for Malware
 * [https://github.com/ciscocsirt/malspider](https://github.com/ciscocsirt/malspider)
 
-
 ### Dating Website Data
 * [https://datadating.tacticaltech.org/viz](https://datadating.tacticaltech.org/viz)
 * [https://www.usdate.org](https://www.usdate.org)
-
 
 ### Firearm Websites
 * [https://www.gunbroker.com/mysite/myaccount/tools/default.aspx](https://www.gunbroker.com/mysite/myaccount/tools/default.aspx)
@@ -52,3 +50,43 @@ https://sapa-project.org/survey/demographics.php
 
 ### Content API
 * http://www.bigimtoolbox.com/apidocs/big-content-search-api
+
+### GPT-2 AI 
+* https://medium.com/@molamk/how-to-use-openais-gpt-2-with-react-and-flask-9ca1573e5905
+* https://devopstar.com/2019/03/21/openai-gpt-2-pytorch-model-over-a-containerised-api/
+* https://www.analyticsvidhya.com/blog/2019/07/pytorch-transformers-nlp-python/?utm_source=blog&utm_medium=openai-gpt2-text-generator-python
+
+### Pytorch
+* https://pytorch.org/get-started/locally/#start-locally
+
+### NLP Headline Generation
+* https://github.com/csinva/gpt2-paper-title-generator
+* https://github.com/udibr/headlines
+* https://github.com/NainiShah/News-Headline-Generation
+* https://github.com/heenabansal/seq2seq_chatbot_encoder_decoder_model_with_attention
+
+### Training Data
+* https://www.kaggle.com/snapcrack/all-the-news/data
+* https://components.one/datasets/all-the-news-articles-dataset/
+
+### NLTK
+* https://github.com/woolz/Text-Rewrite-NLP
+* https://www.nltk.org/data.html
+* http://www.nltk.org/nltk_data/
+
+### Ruby NLP
+* https://github.com/louismullie/treat/wiki/Manual
+* https://github.com/parhamr/nlp-pure
+* https://github.com/louismullie/stanford-core-nlp
+
+### Word Finding API
+* http://www.datamuse.com/api/
+
+### SEO Analyzer
+* https://app.neilpatel.com/en/seo_analyzer/backlinks?domain=http://joecode.com/&mode=url&locId=2840&lang=en
+
+### ESPN API's
+* https://gist.github.com/akeaswaran/b48b02f1c94f873c6655e7129910fc3b
+* http://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/scoreboard
+* https://github.com/mkreiser/ESPN-Fantasy-Football-API/blob/master/src/client/client.js
+
