@@ -90,3 +90,12 @@ https://sapa-project.org/survey/demographics.php
 * http://site.api.espn.com/apis/site/v2/sports/soccer/usa.1/scoreboard
 * https://github.com/mkreiser/ESPN-Fantasy-Football-API/blob/master/src/client/client.js
 
+### Financial API's
+* https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=VFIAX&apikey=demo
+* https://www.alphavantage.co/documentation/
+
+
+### Security Stuff
+* https://github.com/sullo/nikto
+* https://www.exploit-db.com
+
