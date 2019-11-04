@@ -99,3 +99,11 @@ https://sapa-project.org/survey/demographics.php
 * https://github.com/sullo/nikto
 * https://www.exploit-db.com
 
+### Streams
+* https://nflbite.com/category/live/seattle-seahawks-live-stream/
+* https://footybite.com/category/football/mls-live-stream/
+* http://buffstreamz.com/nfl-streams/
+
+### Domain Finding Tools
+* https://member.expireddomains.net
+
