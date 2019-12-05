@@ -94,15 +94,9 @@ https://sapa-project.org/survey/demographics.php
 * https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=VFIAX&apikey=demo
 * https://www.alphavantage.co/documentation/
 
-
 ### Security Stuff
 * https://github.com/sullo/nikto
 * https://www.exploit-db.com
-
-### Streams
-* https://nflbite.com/category/live/seattle-seahawks-live-stream/
-* https://footybite.com/category/football/mls-live-stream/
-* http://buffstreamz.com/nfl-streams/
 
 ### Domain Finding Tools
 * https://member.expireddomains.net
