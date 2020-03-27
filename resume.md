@@ -2,6 +2,15 @@
 layout: page
 title: "Joe Wilson's Resume"
 ---
+
+> Sorry folks parks closed
+ <http://joecode.com/contact.html>
+
+ <div>
+ <iframe width="560" height="315" src="//www.youtube.com/embed/CwVpSBKzQYo?rel=0" frameborder="0" allowfullscreen></iframe>
+ </div>
+
+{% comment %}
 Software development and information technology professional with twenty years of startup and enterprise experience.
 
 ### Professional Experience
@@ -94,3 +103,5 @@ University of Idaho, History -- 1994 (no degree)
 Snoqualmie WA, 98065<br>
 (208) 651-3125<br>
 <joe@joecode.com><br>
+
+{% endcomment %}
