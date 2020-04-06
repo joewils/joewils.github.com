@@ -2,6 +2,7 @@
 # ruby _scripts/create-link-post.rb http://joecode.com joecode
 
 require 'uri'
+require 'openssl'
 require 'open-uri'
 require 'nokogiri'
 require 'securerandom'
@@ -13,7 +14,7 @@ if ARGV[0] and ARGV[1]
   slug = ARGV[1]
   date_time = DateTime.now().strftime("%Y-%m-%d")
   # 1. Get the Source Title
-  source = open(url).read
+  source = URI.open(url, {ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE}).read
   doc = Nokogiri::HTML(source)
   if doc.at_css('title')
     title = doc.at_css('title').text.encode("ASCII", invalid: :replace, undef: :replace, replace: '').gsub("\n",' ').strip
