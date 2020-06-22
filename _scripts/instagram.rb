@@ -4,6 +4,7 @@ require 'httparty'
 require 'nokogiri'
 require 'open-uri'
 require 'open3'
+require 'yaml'
 
 def get_grams(gram)
   # User Agents
@@ -72,6 +73,7 @@ def get_grams(gram)
               end
               grams.push(ig)
             end
+            puts grams.to_yaml
 
             # Process List of Instagram Images
             grams.each do |gram|
@@ -103,7 +105,6 @@ def get_grams(gram)
               end
 
               # Clean up title
-              
               title = gram['caption'].encode("ASCII", invalid: :replace, undef: :replace, replace: '').gsub("\n",' ').strip
               source_url = 'https://www.instagram.com/p/'+gram['shortcode']+'/'
 
@@ -122,7 +123,7 @@ def get_grams(gram)
                 File.open('_posts/'+jekyll_filename, 'w') {|f| f.write yml }
               end
 
-            end
+            end #grams.each
 
           end
         end
@@ -132,5 +133,10 @@ def get_grams(gram)
   return posts
 end
 
+# Public Account
 grams = get_grams('joewils')
-puts grams
+puts grams.to_yaml
+
+# Private Accounts Don't Work
+# grams = get_grams('awils3126')
+# puts grams.to_yaml
