@@ -1,7 +1,7 @@
 ---
-layout: link
-title: "Remember to take time and admire the beauty that surrounds us."
-source: 'https://www.instagram.com/p/BhCsfQalskR/'
-screenshot: 'instagram/th-BhCsfQalskR.jpg'
+layout: post
+title: "Remember to take time and admire the beauty that surrounds us"
+category: photos
 ---
 
+[![Remember to take time and admire the beauty that surrounds us](/instagram/th-BhCsfQalskR.jpg)](https://www.instagram.com/p/BhCsfQalskR/)

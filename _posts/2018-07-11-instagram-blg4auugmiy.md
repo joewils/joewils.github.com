@@ -1,7 +1,7 @@
 ---
-layout: link
+layout: post
 title: "Fishing Clearwater Lake"
-source: 'https://www.instagram.com/p/BlG4aUugmIY/'
-screenshot: 'instagram/th-BlG4aUugmIY.jpg'
+category: photos
 ---
 
+[![Fishing Clearwater Lake](/instagram/th-BlG4aUugmIY.jpg)](https://www.instagram.com/p/BlG4aUugmIY/)

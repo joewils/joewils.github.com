@@ -1,7 +1,7 @@
 ---
-layout: link
-title: "@lincoln"
-source: 'https://www.instagram.com/p/BjueF49A0GZ/'
-screenshot: 'instagram/th-BjueF49A0GZ.jpg'
+layout: post
+title: "lincoln"
+category: photos
 ---
 
+[![lincoln](/instagram/th-BjueF49A0GZ.jpg)](https://www.instagram.com/p/BjueF49A0GZ/)

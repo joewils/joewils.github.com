@@ -1,7 +1,7 @@
 ---
-layout: link
+layout: post
 title: "Garnet Ghost Town Outhouses"
-source: 'https://www.instagram.com/p/BlG4vgEAoK_/'
-screenshot: 'instagram/th-BlG4vgEAoK_.jpg'
+category: photos
 ---
 
+[![Garnet Ghost Town Outhouses](/instagram/th-BlG4vgEAoK_.jpg)](https://www.instagram.com/p/BlG4vgEAoK_/)

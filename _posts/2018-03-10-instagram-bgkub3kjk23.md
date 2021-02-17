@@ -1,7 +1,7 @@
 ---
-layout: link
-title: "How CrossFitters ask each other out to a dance. #loganisgoingtokillme"
-source: 'https://www.instagram.com/p/BgKUb3Kjk23/'
-screenshot: 'instagram/th-BgKUb3Kjk23.jpg'
+layout: post
+title: "How CrossFitters ask each other out to a dance loganisgoingtokillme"
+category: photos
 ---
 
+[![How CrossFitters ask each other out to a dance loganisgoingtokillme](/instagram/th-BgKUb3Kjk23.jpg)](https://www.instagram.com/p/BgKUb3Kjk23/)

@@ -1,7 +1,7 @@
 ---
-layout: link
+layout: post
 title: "Mount Si Senior Prom"
-source: 'https://www.instagram.com/p/ByMB2PPJRms/'
-screenshot: 'instagram/th-ByMB2PPJRms.jpg'
+category: photos
 ---
 
+[![Mount Si Senior Prom](/instagram/th-ByMB2PPJRms.jpg)](https://www.instagram.com/p/ByMB2PPJRms/)

@@ -1,7 +1,7 @@
 ---
-layout: link
-title: "Sasquatch vertebrae? #seabrookwa #pacificbeach"
-source: 'https://www.instagram.com/p/BhkIdYghksY/'
-screenshot: 'instagram/th-BhkIdYghksY.jpg'
+layout: post
+title: "Sasquatch vertebrae seabrookwa pacificbeach"
+category: photos
 ---
 
+[![Sasquatch vertebrae seabrookwa pacificbeach](/instagram/th-BhkIdYghksY.jpg)](https://www.instagram.com/p/BhkIdYghksY/)

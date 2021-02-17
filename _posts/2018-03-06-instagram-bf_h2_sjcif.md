@@ -1,7 +1,7 @@
 ---
-layout: link
-title: "18.2"
-source: 'https://www.instagram.com/p/Bf_H2_sjCif/'
-screenshot: 'instagram/th-Bf_H2_sjCif.jpg'
+layout: post
+title: "182"
+category: photos
 ---
 
+[![182](/instagram/th-Bf_H2_sjCif.jpg)](https://www.instagram.com/p/Bf_H2_sjCif/)

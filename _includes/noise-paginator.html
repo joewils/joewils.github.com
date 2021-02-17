@@ -1,0 +1,37 @@
+<div class="container mx-auto px-2 py-2 clearfix">
+  <div class="col-3 sm-width-full left mr-lg-4 mt-3">
+    {% if paginator.previous_page %}
+      {% if paginator.previous_page == 1 %}
+        <a class="no-underline border-top-thin py-1 block" href="/">
+          <span class="h5 bold text-accent">&larr; Previous</span>
+        </a>
+      {% else %}
+        <a class="no-underline border-top-thin py-1 block" href="/noise/{{paginator.previous_page}}/">
+          <span class="h5 bold text-accent">&larr; Previous</span>
+        </a>
+      {% endif %}
+    {% else %}
+      <div class="no-underline border-top-thin py-1 block">
+        <span class="h5 bold ">&larr; Previous</span>
+      </div>
+    {% endif %}
+  </div>
+
+  <div class="col-3 sm-width-full left mr-lg-4 mt-3 text-center">
+    <div class="no-underline border-top-thin py-1 block">
+      Page {{paginator.page}} of {{paginator.total_pages}}
+    </div>
+  </div>
+
+  <div class="col-3 sm-width-full left mt-3 text-right">
+    {% if paginator.next_page %}
+      <a class="no-underline border-top-thin py-1 block" href="/noise/{{paginator.next_page}}/">
+        <span class="h5 bold text-accent">Next &rarr;</span>
+      </a>
+    {% else %}
+      <div class="no-underline border-top-thin py-1 block">
+        <span class="h5 bold">Next &rarr;</span>
+      </div>
+    {% endif %}
+  </div>
+</div>

@@ -1,7 +1,7 @@
 ---
-layout: link
-title: "Essence of beer. ~ Derek Zoolander"
-source: 'https://www.instagram.com/p/Bs4QA5jBTPX/'
-screenshot: 'instagram/th-Bs4QA5jBTPX.jpg'
+layout: post
+title: "Essence of beer Derek Zoolander"
+category: photos
 ---
 
+[![Essence of beer Derek Zoolander](/instagram/th-Bs4QA5jBTPX.jpg)](https://www.instagram.com/p/Bs4QA5jBTPX/)

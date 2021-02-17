@@ -1,7 +1,7 @@
 ---
-layout: link
+layout: post
 title: "Klas - Wilson wedding"
-source: 'https://www.instagram.com/p/CENhMUPJqm8/'
-screenshot: 'instagram/th-CENhMUPJqm8.jpg'
+category: photos
 ---
 
+[![Klas - Wilson wedding](/instagram/th-CENhMUPJqm8.jpg)](https://www.instagram.com/p/CENhMUPJqm8/)

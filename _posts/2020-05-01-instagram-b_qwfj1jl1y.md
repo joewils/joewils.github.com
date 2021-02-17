@@ -1,7 +1,7 @@
 ---
-layout: link
+layout: post
 title: "Covid-19 partners"
-source: 'https://www.instagram.com/p/B_qwFJ1JL1y/'
-screenshot: 'instagram/th-B_qwFJ1JL1y.jpg'
+category: photos
 ---
 
+[![Covid-19 partners](/instagram/th-B_qwFJ1JL1y.jpg)](https://www.instagram.com/p/B_qwFJ1JL1y/)

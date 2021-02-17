@@ -105,19 +105,23 @@ def get_grams(gram)
               end
 
               # Clean up title
-              title = gram['caption'].encode("ASCII", invalid: :replace, undef: :replace, replace: '').gsub("\n",' ').strip
+              title = gram['caption'].encode("ASCII", invalid: :replace, undef: :replace, replace: '').strip
+              title.gsub!("\n",' ')
+              title.gsub!(/[^0-9A-Za-z -]/, '')
+              title.gsub!(/\s+/, ' ')
               source_url = 'https://www.instagram.com/p/'+gram['shortcode']+'/'
 
               # Build Jekyll Filename
               jekyll_filename = gram['date']+'-instagram-'+gram['shortcode'].downcase+'.md'
 
               # Build Jekyll YAML Frontend
-              yml = "---\n";
-              yml += "layout: link\n";
+              yml = "---\n"
+              yml += "layout: post\n"
               yml += "title: \""+title+"\"\n"
               yml += "source: '"+source_url+"'\n"
-              yml += "screenshot: 'instagram/th-"+gram['shortcode']+".jpg'\n"
-              yml += "---\n\n";
+              yml += "category: photos\n"
+              yml += "---\n\n"
+              yml += '[!['+title+'](/instagram/th-'+gram['shortcode']+'.jpg)]('+source_url+')'+"\n"
               if !File.exist? '_posts/'+jekyll_filename
                 puts jekyll_filename
                 File.open('_posts/'+jekyll_filename, 'w') {|f| f.write yml }

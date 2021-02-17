@@ -1,7 +1,7 @@
 ---
-layout: link
+layout: post
 title: "Spokane river boardwalk stroll with my ex-girlfriend"
-source: 'https://www.instagram.com/p/CEGDkDQpqAc/'
-screenshot: 'instagram/th-CEGDkDQpqAc.jpg'
+category: photos
 ---
 
+[![Spokane river boardwalk stroll with my ex-girlfriend](/instagram/th-CEGDkDQpqAc.jpg)](https://www.instagram.com/p/CEGDkDQpqAc/)

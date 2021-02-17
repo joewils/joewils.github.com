@@ -1,7 +1,7 @@
 ---
-layout: link
-title: "Washington Cup halftime prep. @cfc_g05green @cfc_cascadefc"
-source: 'https://www.instagram.com/p/BsTiBOhhkD4/'
-screenshot: 'instagram/th-BsTiBOhhkD4.jpg'
+layout: post
+title: "Washington Cup halftime prep cfcg05green cfccascadefc"
+category: photos
 ---
 
+[![Washington Cup halftime prep cfcg05green cfccascadefc](/instagram/th-BsTiBOhhkD4.jpg)](https://www.instagram.com/p/BsTiBOhhkD4/)

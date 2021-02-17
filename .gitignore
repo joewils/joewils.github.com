@@ -1,17 +1,6 @@
-# Windows
-
-# Windows image file caches
-Thumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Mac
+.bundle
+.sass-cache
+_site
 .DS_Store
-
-# Jekyll
-_site/
-
-# Custom
-_screenshots/*.png
-_html/*.html
+Gemfile.lock
+*.gem

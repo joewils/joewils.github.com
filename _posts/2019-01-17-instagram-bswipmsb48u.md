@@ -1,7 +1,7 @@
 ---
-layout: link
+layout: post
 title: "Yep"
-source: 'https://www.instagram.com/p/BswIPMSB48u/'
-screenshot: 'instagram/th-BswIPMSB48u.jpg'
+category: photos
 ---
 
+[![Yep](/instagram/th-BswIPMSB48u.jpg)](https://www.instagram.com/p/BswIPMSB48u/)

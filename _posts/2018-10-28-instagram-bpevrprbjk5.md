@@ -1,7 +1,7 @@
 ---
-layout: link
+layout: post
 title: "Merry Christmas everyone"
-source: 'https://www.instagram.com/p/BpevrPrBjk5/'
-screenshot: 'instagram/th-BpevrPrBjk5.jpg'
+category: photos
 ---
 
+[![Merry Christmas everyone](/instagram/th-BpevrPrBjk5.jpg)](https://www.instagram.com/p/BpevrPrBjk5/)

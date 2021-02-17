@@ -1,7 +1,7 @@
 ---
-layout: link
-title: "Timber showing his @mariners pride."
-source: 'https://www.instagram.com/p/BidQb62BGnd/'
-screenshot: 'instagram/th-BidQb62BGnd.jpg'
+layout: post
+title: "Timber showing his mariners pride"
+category: photos
 ---
 
+[![Timber showing his mariners pride](/instagram/th-BidQb62BGnd.jpg)](https://www.instagram.com/p/BidQb62BGnd/)

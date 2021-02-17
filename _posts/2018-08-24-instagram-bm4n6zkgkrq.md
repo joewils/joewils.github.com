@@ -1,7 +1,7 @@
 ---
-layout: link
-title: "Look at my featured photo on the @crossfit main site. Rest day, my favorite workout! @snoridgecrossfit @jhenretig @seannewbrey"
-source: 'https://www.instagram.com/p/Bm4n6Zkgkrq/'
-screenshot: 'instagram/th-Bm4n6Zkgkrq.jpg'
+layout: post
+title: "Look at my featured photo on the crossfit main site Rest day my favorite workout snoridgecrossfit jhenretig seannewbrey"
+category: photos
 ---
 
+[![Look at my featured photo on the crossfit main site Rest day my favorite workout snoridgecrossfit jhenretig seannewbrey](/instagram/th-Bm4n6Zkgkrq.jpg)](https://www.instagram.com/p/Bm4n6Zkgkrq/)
