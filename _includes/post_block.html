@@ -4,7 +4,7 @@
   <h2 class="h1 lh-condensed col-9 mt-0">
     <a class="link-primary" title="{{ post.url | prepend: site.baseurl }}" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
   </h2>
-  {% if post.category == 'links' or post.category == 'photos' %}
+  {% if post.category == 'links' or post.category == 'photos'  or post.category == 'noise' %}
     {{ post.content }}
   {% else %}
     <p>{{ post.content | strip_html | truncatewords:30 }}</p>
