@@ -15,6 +15,10 @@ title: About
 
     <p>Learn more about my work experience by visiting my <a href="http://www.linkedin.com/in/joewils">LinkedIn</a> profile or my occasionally up to date <a href="/resume/">resume</a>.</p>
 
-    <p>Explore my exceptionally average domestic life as father, coach, and amateur photographer on <a href="http://instagram.com/joewils">instagram</a> or you can find out more about what is wrong with me at <a href="http://www.facebook.com/joewils">facebook</a>. You can laugh at my athletic performance by visiting my CrossFit&trade; Games <a href="http://games.crossfit.com/athlete/522199">profile</a>.</p>
+    <ul>
+      <li>Explore my exceptionally average domestic life on <a href="http://instagram.com/joewils">instagram</a>
+      <li>Discover what is wrong with me at <a href="http://www.facebook.com/joewils">facebook</a>
+      <li>Laugh at my <a href="http://games.crossfit.com/athlete/522199">CrossFit&trade; Games</a> athletic performance</li>
+    </ul>
 
 </div>
