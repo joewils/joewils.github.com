@@ -16,8 +16,8 @@ title: About
     <p>Learn more about my work experience by visiting my <a href="http://www.linkedin.com/in/joewils">LinkedIn</a> profile or my occasionally up to date <a href="/resume/">resume</a>.</p>
 
     <ul>
-      <li>Explore my exceptionally average domestic life on <a href="http://instagram.com/joewils">instagram</a>
-      <li>Discover what is wrong with me at <a href="http://www.facebook.com/joewils">facebook</a>
+      <li>Explore my exceptionally average domestic life on <a href="http://instagram.com/joewils">instagram</a></li>
+      <li>Discover what is wrong with me at <a href="http://www.facebook.com/joewils">facebook</a></li>
       <li>Laugh at my <a href="http://games.crossfit.com/athlete/522199">CrossFit&trade; Games</a> athletic performance</li>
     </ul>
 
